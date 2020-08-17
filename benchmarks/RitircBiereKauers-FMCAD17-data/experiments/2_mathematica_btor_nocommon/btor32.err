@@ -1,0 +1,20 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-mathematica.sh
+[runlim] argv[1]:		../../benchmarks/btor/btor32.aig
+[runlim] argv[2]:		--no-common-rewriting
+[runlim] start:			Wed Jul 12 16:20:15 2017
+[runlim] main pid:		4000
+[time] 6.72 usertime in seconds
+[time] 6.84 wallclocktime in seconds
+[time] 104876 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 16:20:22 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		69
+[runlim] real:			7.11 seconds
+[runlim] time:			6.73 seconds
+[runlim] space:			102.5 MB
+[runlim] samples:		69

@@ -1,0 +1,111 @@
+[launsh.sh] start Mit Jul 12 12:39:52 CEST 2017
+[aigmultopoly] reading '../../benchmarks/abc/abc4.aig'
+[aigmultopoly] MILOA 92 8 0 8 84
+[aigmultopoly] not backannotating literals (no '-b' nor '--backannotate' option)
+[aigmultopoly] producing Singular output
+[aigmultopoly] assuming ordering as in the AIKO benchmarks
+[aigmultopoly] (a[0], a[1], ..., a[3]) = (input[0], input[1], ..., input[3])
+[aigmultopoly] (b[0], b[1], ..., b[3]) = (input[4], input[5], ..., input[7])
+[aigmultopoly] (s[0], ..., s[7]) = (output[0], ..., output[7])
+[aigmultopoly] found all 1 partial products for slice 0
+[aigmultopoly] found all 2 partial products for slice 1
+[aigmultopoly] found all 3 partial products for slice 2
+[aigmultopoly] found all 4 partial products for slice 3
+[aigmultopoly] found all 3 partial products for slice 4
+[aigmultopoly] found all 2 partial products for slice 5
+[aigmultopoly] found all 1 partial products for slice 6
+[aigmultopoly] found all 0 partial products for slice 7
+[aigmultopoly] found all 16 partial products in total
+[aigmultopoly] found 1 new non-input variables in COI of slice 0
+[aigmultopoly] found 3 new non-input variables in COI of slice 1
+[aigmultopoly] found 7 new non-input variables in COI of slice 2
+[aigmultopoly] found 13 new non-input variables in COI of slice 3
+[aigmultopoly] found 15 new non-input variables in COI of slice 4
+[aigmultopoly] found 13 new non-input variables in COI of slice 5
+[aigmultopoly] found 9 new non-input variables in COI of slice 6
+[aigmultopoly] found 3 new non-input variables in COI of slice 7
+[aigmultopoly] found 64 non-input literals in total
+[aigmultopoly] found 64 AND gates in COI of which 20 are XORs 31%
+[aigmultopoly] where 24 AND gates occur only once 38%
+[aigmultopoly] ordered columnwise backward 1 AND gates in slice 0
+[aigmultopoly] ordered columnwise backward 3 AND gates in slice 1
+[aigmultopoly] ordered columnwise backward 6 AND gates in slice 2
+[aigmultopoly] ordered columnwise backward 9 AND gates in slice 3
+[aigmultopoly] ordered columnwise backward 8 AND gates in slice 4
+[aigmultopoly] ordered columnwise backward 6 AND gates in slice 5
+[aigmultopoly] ordered columnwise backward 3 AND gates in slice 6
+[aigmultopoly] ordered columnwise backward 0 AND gates in slice 7
+[aigmultopoly] ordered 36 gates in total
+[aigmultopoly] merged 28 gates in total
+[aigmultopoly] promoted 0 gates in total
+[aigmultopoly] maximum level 1 in slice 0
+[aigmultopoly] maximum level 2 in slice 1
+[aigmultopoly] maximum level 4 in slice 2
+[aigmultopoly] maximum level 6 in slice 3
+[aigmultopoly] maximum level 7 in slice 4
+[aigmultopoly] maximum level 6 in slice 5
+[aigmultopoly] maximum level 4 in slice 6
+[aigmultopoly] maximum level 0 in slice 7
+[aigmultopoly] distance updated of 182 in round 6 from 0 to 2
+[aigmultopoly] distance updated of 164 in round 5 from 0 to 4
+[aigmultopoly] distance updated of 132 in round 4 from 0 to 6
+[aigmultopoly] distance updated of 92 in round 3 from 0 to 7
+[aigmultopoly] distance updated of 52 in round 2 from 0 to 11
+[aigmultopoly] distance updated of 28 in round 1 from 0 to 15
+[aigmultopoly] distance updated of 18 in round 0 from 0 to 16
+[aigmultopoly] maximum output distance 16
+[aigmultopoly] found 1 literals with output distance 0
+[aigmultopoly] found 3 literals with output distance 1
+[aigmultopoly] found 2 literals with output distance 2
+[aigmultopoly] found 5 literals with output distance 3
+[aigmultopoly] found 4 literals with output distance 4
+[aigmultopoly] found 5 literals with output distance 5
+[aigmultopoly] found 5 literals with output distance 6
+[aigmultopoly] found 8 literals with output distance 7
+[aigmultopoly] found 3 literals with output distance 8
+[aigmultopoly] found 4 literals with output distance 9
+[aigmultopoly] found 5 literals with output distance 10
+[aigmultopoly] found 6 literals with output distance 11
+[aigmultopoly] found 3 literals with output distance 12
+[aigmultopoly] found 4 literals with output distance 13
+[aigmultopoly] found 4 literals with output distance 14
+[aigmultopoly] found 5 literals with output distance 15
+[aigmultopoly] found 5 literals with output distance 16
+[aigmultopoly] named 72 polynomials in total
+[aigmultopoly] found 0 carries in slice 0
+[aigmultopoly] found 1 carries in slice 1
+[aigmultopoly] found 2 carries in slice 2
+[aigmultopoly] found 3 carries in slice 3
+[aigmultopoly] found 3 carries in slice 4
+[aigmultopoly] found 2 carries in slice 5
+[aigmultopoly] found 1 carries in slice 6
+[aigmultopoly] found 0 carries in slice 7
+[aigmultopoly] found 0 vanishing constraints in slice 0
+[aigmultopoly] found 0 vanishing constraints in slice 1
+[aigmultopoly] found 2 vanishing constraints in slice 2
+[aigmultopoly] found 4 vanishing constraints in slice 3
+[aigmultopoly] found 4 vanishing constraints in slice 4
+[aigmultopoly] found 3 vanishing constraints in slice 5
+[aigmultopoly] found 1 vanishing constraints in slice 6
+[aigmultopoly] found 0 vanishing constraints in slice 7
+[aigmultopoly] found 14 vanishing XOR constraints in total
+[aigmultopoly] printed 72 polynomials in total
+[aigmultopoly] using column wise incremental word-level reasoning
+[aigmultopoly] 
+[aigmultopoly] maximum resident set size:          0.74 MB
+[aigmultopoly] used process time:                  0.00 seconds
+                     SINGULAR                                 /  Development
+ A Computer Algebra System for Polynomial Computations       /   version 4.1.0
+                                                           0<
+ by: W. Decker, G.-M. Greuel, G. Pfister, H. Schoenemann     \   Nov 2016
+FB Mathematik der Universitaet, D-67653 Kaiserslautern        \
+-AndOcc1Slice6Level4Order5Distance0+1
+-AndSlice5Level6Order11Distance2-AndSlice5Level4Order8Distance3+2
+-AndSlice4Level7Order14Distance4-AndSlice4Level5Order11Distance6+AndSlice4Level2Order3Distance7+2
+-AndSlice3Level6Order15Distance8+AndSlice3Level6Order13Distance6-AndSlice3Level4Order10Distance10+2
+-AndSlice2Level4Order9Distance12+AndSlice2Level4Order7Distance10+1
+AndSlice1Level2Order2Distance14
+0
+0
+Auf Wiedersehen.
+[launsh.sh] end Mit Jul 12 12:39:52 CEST 2017

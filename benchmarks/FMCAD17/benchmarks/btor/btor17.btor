@@ -1,0 +1,73 @@
+1 var 17 a
+2 var 17 b
+3 uext 34 1 17
+4 uext 34 2 17
+5 mul 34 3 4
+6 slice 1 5 0 0
+7 root 1 6
+9 slice 1 5 1 1
+10 root 1 9
+12 slice 1 5 2 2
+13 root 1 12
+15 slice 1 5 3 3
+16 root 1 15
+18 slice 1 5 4 4
+19 root 1 18
+21 slice 1 5 5 5
+22 root 1 21
+24 slice 1 5 6 6
+25 root 1 24
+27 slice 1 5 7 7
+28 root 1 27
+30 slice 1 5 8 8
+31 root 1 30
+33 slice 1 5 9 9
+34 root 1 33
+36 slice 1 5 10 10
+37 root 1 36
+39 slice 1 5 11 11
+40 root 1 39
+42 slice 1 5 12 12
+43 root 1 42
+45 slice 1 5 13 13
+46 root 1 45
+48 slice 1 5 14 14
+49 root 1 48
+51 slice 1 5 15 15
+52 root 1 51
+54 slice 1 5 16 16
+55 root 1 54
+57 slice 1 5 17 17
+58 root 1 57
+60 slice 1 5 18 18
+61 root 1 60
+63 slice 1 5 19 19
+64 root 1 63
+66 slice 1 5 20 20
+67 root 1 66
+69 slice 1 5 21 21
+70 root 1 69
+72 slice 1 5 22 22
+73 root 1 72
+75 slice 1 5 23 23
+76 root 1 75
+78 slice 1 5 24 24
+79 root 1 78
+81 slice 1 5 25 25
+82 root 1 81
+84 slice 1 5 26 26
+85 root 1 84
+87 slice 1 5 27 27
+88 root 1 87
+90 slice 1 5 28 28
+91 root 1 90
+93 slice 1 5 29 29
+94 root 1 93
+96 slice 1 5 30 30
+97 root 1 96
+99 slice 1 5 31 31
+100 root 1 99
+102 slice 1 5 32 32
+103 root 1 102
+105 slice 1 5 33 33
+106 root 1 105

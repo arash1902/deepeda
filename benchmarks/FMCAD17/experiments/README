@@ -1,0 +1,63 @@
+These is the experimental data for our FMCAD'17 paper by Daniela Ritirc,
+Armin Biere, Manuel Kauers with the title "Column-Wise Verification of
+Multipliers Using Computer Algebra". 
+
+Directories are named accorrding to the schemata:
+	NUM_CAS_MULTTYPE_{FLAGS}
+
+NUM:        The prefix '[1234]_' defines the corresponding 
+            Table I, II, III, or IV in the paper.
+
+CAS:        In our experiments we use either Mathematica or Singular for 
+	    calculating Algorithm 1.
+
+MULTTYPE:   'btor': This set is produced by Boolector and defines multipliers
+	     with simple partial product generators, carry save adders and 
+             ripple carry reduction. Because of their extremely regular structure, 
+             multipliers from this set can be considered as clean.
+
+            'abc': These benchmarks are generated with ABC. The structure of 
+             these multipliers is essentially the same as for the 'btor' set.           
+
+            'sparrc' [15]: These multipliers consist of simple partial
+             product generation, array accumulation and ripple carry reduction.
+             In contrast to 'btor' and 'abc' the structure of these multipliers
+             is not extremely regular, because the partial products are permuted 
+             and the multipliers are synthesized from Verilog. Thus they are 
+             considered as dirty multipliers. 
+
+            More information on the multipliers can be found
+            in the README files which come with the benchmarks.
+
+FLAGS:      According to the type of experiment (indicated by 'NUM') flags are set.
+            If not indicated by 'nonincremental' all experiments use our 
+            proposed incremental column-wise reduction approach (Alg. 1)
+
+
+    1 (cf. Section V+VI):
+            'incremental': Our proposed method using all optimizations (Alg. 1)
+            'nonincremental': Reduction of the wordlevel specification (Def 2)
+            'row-wise': Using a row-wise instead of a column-wise ordering
+
+    2 (cf. Section IV):      
+            'nocommon': Common-rewriting is turned off
+            'novanishing': no vanishing rules are generated
+            'noxor': Xor-rewriting is tuned off
+
+
+    3 (cf. Section VII):
+            'notmerge': The optimization 'Merge' is turned off
+            'notpromote': The optimization 'Promote' is turned off
+
+    4 (cf. [11,26])
+            'resyn3': version of synthesis
+            'complex': libraries for technology mapping
+            'nocomplex': libraries for technology mapping
+
+
+Daniela Ritirc
+Tue Aug 08 08:57:35 CEST 2017
+                     
+
+
+

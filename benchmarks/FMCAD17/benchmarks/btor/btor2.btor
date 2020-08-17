@@ -1,0 +1,13 @@
+1 var 2 a
+2 var 2 b
+3 uext 4 1 2
+4 uext 4 2 2
+5 mul 4 3 4
+6 slice 1 5 0 0
+7 root 1 6
+9 slice 1 5 1 1
+10 root 1 9
+12 slice 1 5 2 2
+13 root 1 12
+15 slice 1 5 3 3
+16 root 1 15

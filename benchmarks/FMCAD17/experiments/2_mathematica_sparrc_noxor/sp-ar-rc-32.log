@@ -1,0 +1,786 @@
+[launsh.sh] start Mit Jul 12 11:59:11 CEST 2017
+[aigmultopoly] reading '../../benchmarks/aoki/sp-ar-rc-32.aig'
+[aigmultopoly] MILOA 11776 64 0 64 11712
+[aigmultopoly] not backannotating literals (no '-b' nor '--backannotate' option)
+[aigmultopoly] producing Mathematica output
+[aigmultopoly] assuming ordering as in the AIKO benchmarks
+[aigmultopoly] (a[0], a[1], ..., a[31]) = (input[0], input[1], ..., input[31])
+[aigmultopoly] (b[0], b[1], ..., b[31]) = (input[32], input[33], ..., input[63])
+[aigmultopoly] (s[0], ..., s[63]) = (output[0], ..., output[63])
+[aigmultopoly] found all 1 partial products for slice 0
+[aigmultopoly] found all 2 partial products for slice 1
+[aigmultopoly] found all 3 partial products for slice 2
+[aigmultopoly] found all 4 partial products for slice 3
+[aigmultopoly] found all 5 partial products for slice 4
+[aigmultopoly] found all 6 partial products for slice 5
+[aigmultopoly] found all 7 partial products for slice 6
+[aigmultopoly] found all 8 partial products for slice 7
+[aigmultopoly] found all 9 partial products for slice 8
+[aigmultopoly] found all 10 partial products for slice 9
+[aigmultopoly] found all 11 partial products for slice 10
+[aigmultopoly] found all 12 partial products for slice 11
+[aigmultopoly] found all 13 partial products for slice 12
+[aigmultopoly] found all 14 partial products for slice 13
+[aigmultopoly] found all 15 partial products for slice 14
+[aigmultopoly] found all 16 partial products for slice 15
+[aigmultopoly] found all 17 partial products for slice 16
+[aigmultopoly] found all 18 partial products for slice 17
+[aigmultopoly] found all 19 partial products for slice 18
+[aigmultopoly] found all 20 partial products for slice 19
+[aigmultopoly] found all 21 partial products for slice 20
+[aigmultopoly] found all 22 partial products for slice 21
+[aigmultopoly] found all 23 partial products for slice 22
+[aigmultopoly] found all 24 partial products for slice 23
+[aigmultopoly] found all 25 partial products for slice 24
+[aigmultopoly] found all 26 partial products for slice 25
+[aigmultopoly] found all 27 partial products for slice 26
+[aigmultopoly] found all 28 partial products for slice 27
+[aigmultopoly] found all 29 partial products for slice 28
+[aigmultopoly] found all 30 partial products for slice 29
+[aigmultopoly] found all 31 partial products for slice 30
+[aigmultopoly] found all 32 partial products for slice 31
+[aigmultopoly] found all 31 partial products for slice 32
+[aigmultopoly] found all 30 partial products for slice 33
+[aigmultopoly] found all 29 partial products for slice 34
+[aigmultopoly] found all 28 partial products for slice 35
+[aigmultopoly] found all 27 partial products for slice 36
+[aigmultopoly] found all 26 partial products for slice 37
+[aigmultopoly] found all 25 partial products for slice 38
+[aigmultopoly] found all 24 partial products for slice 39
+[aigmultopoly] found all 23 partial products for slice 40
+[aigmultopoly] found all 22 partial products for slice 41
+[aigmultopoly] found all 21 partial products for slice 42
+[aigmultopoly] found all 20 partial products for slice 43
+[aigmultopoly] found all 19 partial products for slice 44
+[aigmultopoly] found all 18 partial products for slice 45
+[aigmultopoly] found all 17 partial products for slice 46
+[aigmultopoly] found all 16 partial products for slice 47
+[aigmultopoly] found all 15 partial products for slice 48
+[aigmultopoly] found all 14 partial products for slice 49
+[aigmultopoly] found all 13 partial products for slice 50
+[aigmultopoly] found all 12 partial products for slice 51
+[aigmultopoly] found all 11 partial products for slice 52
+[aigmultopoly] found all 10 partial products for slice 53
+[aigmultopoly] found all 9 partial products for slice 54
+[aigmultopoly] found all 8 partial products for slice 55
+[aigmultopoly] found all 7 partial products for slice 56
+[aigmultopoly] found all 6 partial products for slice 57
+[aigmultopoly] found all 5 partial products for slice 58
+[aigmultopoly] found all 4 partial products for slice 59
+[aigmultopoly] found all 3 partial products for slice 60
+[aigmultopoly] found all 2 partial products for slice 61
+[aigmultopoly] found all 1 partial products for slice 62
+[aigmultopoly] found all 0 partial products for slice 63
+[aigmultopoly] found all 1024 partial products in total
+[aigmultopoly] found 1 new non-input variables in COI of slice 0
+[aigmultopoly] found 5 new non-input variables in COI of slice 1
+[aigmultopoly] found 13 new non-input variables in COI of slice 2
+[aigmultopoly] found 25 new non-input variables in COI of slice 3
+[aigmultopoly] found 37 new non-input variables in COI of slice 4
+[aigmultopoly] found 49 new non-input variables in COI of slice 5
+[aigmultopoly] found 61 new non-input variables in COI of slice 6
+[aigmultopoly] found 73 new non-input variables in COI of slice 7
+[aigmultopoly] found 85 new non-input variables in COI of slice 8
+[aigmultopoly] found 97 new non-input variables in COI of slice 9
+[aigmultopoly] found 109 new non-input variables in COI of slice 10
+[aigmultopoly] found 121 new non-input variables in COI of slice 11
+[aigmultopoly] found 133 new non-input variables in COI of slice 12
+[aigmultopoly] found 145 new non-input variables in COI of slice 13
+[aigmultopoly] found 157 new non-input variables in COI of slice 14
+[aigmultopoly] found 169 new non-input variables in COI of slice 15
+[aigmultopoly] found 181 new non-input variables in COI of slice 16
+[aigmultopoly] found 193 new non-input variables in COI of slice 17
+[aigmultopoly] found 205 new non-input variables in COI of slice 18
+[aigmultopoly] found 217 new non-input variables in COI of slice 19
+[aigmultopoly] found 229 new non-input variables in COI of slice 20
+[aigmultopoly] found 241 new non-input variables in COI of slice 21
+[aigmultopoly] found 253 new non-input variables in COI of slice 22
+[aigmultopoly] found 265 new non-input variables in COI of slice 23
+[aigmultopoly] found 277 new non-input variables in COI of slice 24
+[aigmultopoly] found 289 new non-input variables in COI of slice 25
+[aigmultopoly] found 301 new non-input variables in COI of slice 26
+[aigmultopoly] found 313 new non-input variables in COI of slice 27
+[aigmultopoly] found 325 new non-input variables in COI of slice 28
+[aigmultopoly] found 337 new non-input variables in COI of slice 29
+[aigmultopoly] found 349 new non-input variables in COI of slice 30
+[aigmultopoly] found 361 new non-input variables in COI of slice 31
+[aigmultopoly] found 365 new non-input variables in COI of slice 32
+[aigmultopoly] found 361 new non-input variables in COI of slice 33
+[aigmultopoly] found 353 new non-input variables in COI of slice 34
+[aigmultopoly] found 341 new non-input variables in COI of slice 35
+[aigmultopoly] found 329 new non-input variables in COI of slice 36
+[aigmultopoly] found 317 new non-input variables in COI of slice 37
+[aigmultopoly] found 305 new non-input variables in COI of slice 38
+[aigmultopoly] found 293 new non-input variables in COI of slice 39
+[aigmultopoly] found 281 new non-input variables in COI of slice 40
+[aigmultopoly] found 269 new non-input variables in COI of slice 41
+[aigmultopoly] found 257 new non-input variables in COI of slice 42
+[aigmultopoly] found 245 new non-input variables in COI of slice 43
+[aigmultopoly] found 233 new non-input variables in COI of slice 44
+[aigmultopoly] found 221 new non-input variables in COI of slice 45
+[aigmultopoly] found 209 new non-input variables in COI of slice 46
+[aigmultopoly] found 197 new non-input variables in COI of slice 47
+[aigmultopoly] found 185 new non-input variables in COI of slice 48
+[aigmultopoly] found 173 new non-input variables in COI of slice 49
+[aigmultopoly] found 161 new non-input variables in COI of slice 50
+[aigmultopoly] found 149 new non-input variables in COI of slice 51
+[aigmultopoly] found 137 new non-input variables in COI of slice 52
+[aigmultopoly] found 125 new non-input variables in COI of slice 53
+[aigmultopoly] found 113 new non-input variables in COI of slice 54
+[aigmultopoly] found 101 new non-input variables in COI of slice 55
+[aigmultopoly] found 89 new non-input variables in COI of slice 56
+[aigmultopoly] found 77 new non-input variables in COI of slice 57
+[aigmultopoly] found 65 new non-input variables in COI of slice 58
+[aigmultopoly] found 53 new non-input variables in COI of slice 59
+[aigmultopoly] found 41 new non-input variables in COI of slice 60
+[aigmultopoly] found 29 new non-input variables in COI of slice 61
+[aigmultopoly] found 17 new non-input variables in COI of slice 62
+[aigmultopoly] found 5 new non-input variables in COI of slice 63
+[aigmultopoly] found 11712 non-input literals in total
+[aigmultopoly] found 11712 AND gates in COI of which 1952 are XORs 17%
+[aigmultopoly] where 7808 AND gates occur only once 67%
+[aigmultopoly] ordered columnwise backward 1 AND gates in slice 0
+[aigmultopoly] ordered columnwise backward 5 AND gates in slice 1
+[aigmultopoly] ordered columnwise backward 12 AND gates in slice 2
+[aigmultopoly] ordered columnwise backward 19 AND gates in slice 3
+[aigmultopoly] ordered columnwise backward 26 AND gates in slice 4
+[aigmultopoly] ordered columnwise backward 33 AND gates in slice 5
+[aigmultopoly] ordered columnwise backward 40 AND gates in slice 6
+[aigmultopoly] ordered columnwise backward 47 AND gates in slice 7
+[aigmultopoly] ordered columnwise backward 54 AND gates in slice 8
+[aigmultopoly] ordered columnwise backward 61 AND gates in slice 9
+[aigmultopoly] ordered columnwise backward 68 AND gates in slice 10
+[aigmultopoly] ordered columnwise backward 75 AND gates in slice 11
+[aigmultopoly] ordered columnwise backward 82 AND gates in slice 12
+[aigmultopoly] ordered columnwise backward 89 AND gates in slice 13
+[aigmultopoly] ordered columnwise backward 96 AND gates in slice 14
+[aigmultopoly] ordered columnwise backward 103 AND gates in slice 15
+[aigmultopoly] ordered columnwise backward 110 AND gates in slice 16
+[aigmultopoly] ordered columnwise backward 117 AND gates in slice 17
+[aigmultopoly] ordered columnwise backward 124 AND gates in slice 18
+[aigmultopoly] ordered columnwise backward 131 AND gates in slice 19
+[aigmultopoly] ordered columnwise backward 138 AND gates in slice 20
+[aigmultopoly] ordered columnwise backward 145 AND gates in slice 21
+[aigmultopoly] ordered columnwise backward 152 AND gates in slice 22
+[aigmultopoly] ordered columnwise backward 159 AND gates in slice 23
+[aigmultopoly] ordered columnwise backward 166 AND gates in slice 24
+[aigmultopoly] ordered columnwise backward 173 AND gates in slice 25
+[aigmultopoly] ordered columnwise backward 180 AND gates in slice 26
+[aigmultopoly] ordered columnwise backward 187 AND gates in slice 27
+[aigmultopoly] ordered columnwise backward 194 AND gates in slice 28
+[aigmultopoly] ordered columnwise backward 201 AND gates in slice 29
+[aigmultopoly] ordered columnwise backward 208 AND gates in slice 30
+[aigmultopoly] ordered columnwise backward 215 AND gates in slice 31
+[aigmultopoly] ordered columnwise backward 214 AND gates in slice 32
+[aigmultopoly] ordered columnwise backward 210 AND gates in slice 33
+[aigmultopoly] ordered columnwise backward 203 AND gates in slice 34
+[aigmultopoly] ordered columnwise backward 196 AND gates in slice 35
+[aigmultopoly] ordered columnwise backward 189 AND gates in slice 36
+[aigmultopoly] ordered columnwise backward 182 AND gates in slice 37
+[aigmultopoly] ordered columnwise backward 175 AND gates in slice 38
+[aigmultopoly] ordered columnwise backward 168 AND gates in slice 39
+[aigmultopoly] ordered columnwise backward 161 AND gates in slice 40
+[aigmultopoly] ordered columnwise backward 154 AND gates in slice 41
+[aigmultopoly] ordered columnwise backward 147 AND gates in slice 42
+[aigmultopoly] ordered columnwise backward 140 AND gates in slice 43
+[aigmultopoly] ordered columnwise backward 133 AND gates in slice 44
+[aigmultopoly] ordered columnwise backward 126 AND gates in slice 45
+[aigmultopoly] ordered columnwise backward 119 AND gates in slice 46
+[aigmultopoly] ordered columnwise backward 112 AND gates in slice 47
+[aigmultopoly] ordered columnwise backward 105 AND gates in slice 48
+[aigmultopoly] ordered columnwise backward 98 AND gates in slice 49
+[aigmultopoly] ordered columnwise backward 91 AND gates in slice 50
+[aigmultopoly] ordered columnwise backward 84 AND gates in slice 51
+[aigmultopoly] ordered columnwise backward 77 AND gates in slice 52
+[aigmultopoly] ordered columnwise backward 70 AND gates in slice 53
+[aigmultopoly] ordered columnwise backward 63 AND gates in slice 54
+[aigmultopoly] ordered columnwise backward 56 AND gates in slice 55
+[aigmultopoly] ordered columnwise backward 49 AND gates in slice 56
+[aigmultopoly] ordered columnwise backward 42 AND gates in slice 57
+[aigmultopoly] ordered columnwise backward 35 AND gates in slice 58
+[aigmultopoly] ordered columnwise backward 28 AND gates in slice 59
+[aigmultopoly] ordered columnwise backward 21 AND gates in slice 60
+[aigmultopoly] ordered columnwise backward 14 AND gates in slice 61
+[aigmultopoly] ordered columnwise backward 7 AND gates in slice 62
+[aigmultopoly] ordered columnwise backward 0 AND gates in slice 63
+[aigmultopoly] ordered 6880 gates in total
+[aigmultopoly] merged 4832 gates in total
+[aigmultopoly] promoted 31 literals in promotion round 1
+[aigmultopoly] promoted 31 gates in total
+[aigmultopoly] *** WARNING *** AIGER literal 12804 on slice 32 but reached by partial product of slice 31
+[aigmultopoly] AIGER literal 12804 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 13510 on slice 33 but reached by partial product of slice 32
+[aigmultopoly] AIGER literal 13510 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 14192 on slice 34 but reached by partial product of slice 33
+[aigmultopoly] AIGER literal 14192 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 14850 on slice 35 but reached by partial product of slice 34
+[aigmultopoly] AIGER literal 14850 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 15484 on slice 36 but reached by partial product of slice 35
+[aigmultopoly] AIGER literal 15484 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 16094 on slice 37 but reached by partial product of slice 36
+[aigmultopoly] AIGER literal 16094 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 16680 on slice 38 but reached by partial product of slice 37
+[aigmultopoly] AIGER literal 16680 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 17242 on slice 39 but reached by partial product of slice 38
+[aigmultopoly] AIGER literal 17242 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 17780 on slice 40 but reached by partial product of slice 39
+[aigmultopoly] AIGER literal 17780 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 18294 on slice 41 but reached by partial product of slice 40
+[aigmultopoly] AIGER literal 18294 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 18784 on slice 42 but reached by partial product of slice 41
+[aigmultopoly] AIGER literal 18784 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 19250 on slice 43 but reached by partial product of slice 42
+[aigmultopoly] AIGER literal 19250 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 19692 on slice 44 but reached by partial product of slice 43
+[aigmultopoly] AIGER literal 19692 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 20110 on slice 45 but reached by partial product of slice 44
+[aigmultopoly] AIGER literal 20110 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 20504 on slice 46 but reached by partial product of slice 45
+[aigmultopoly] AIGER literal 20504 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 20874 on slice 47 but reached by partial product of slice 46
+[aigmultopoly] AIGER literal 20874 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 21220 on slice 48 but reached by partial product of slice 47
+[aigmultopoly] AIGER literal 21220 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 21542 on slice 49 but reached by partial product of slice 48
+[aigmultopoly] AIGER literal 21542 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 21840 on slice 50 but reached by partial product of slice 49
+[aigmultopoly] AIGER literal 21840 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 22114 on slice 51 but reached by partial product of slice 50
+[aigmultopoly] AIGER literal 22114 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 22364 on slice 52 but reached by partial product of slice 51
+[aigmultopoly] AIGER literal 22364 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 22590 on slice 53 but reached by partial product of slice 52
+[aigmultopoly] AIGER literal 22590 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 22792 on slice 54 but reached by partial product of slice 53
+[aigmultopoly] AIGER literal 22792 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 22970 on slice 55 but reached by partial product of slice 54
+[aigmultopoly] AIGER literal 22970 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 23124 on slice 56 but reached by partial product of slice 55
+[aigmultopoly] AIGER literal 23124 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 23254 on slice 57 but reached by partial product of slice 56
+[aigmultopoly] AIGER literal 23254 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 23360 on slice 58 but reached by partial product of slice 57
+[aigmultopoly] AIGER literal 23360 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 23442 on slice 59 but reached by partial product of slice 58
+[aigmultopoly] AIGER literal 23442 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 23500 on slice 60 but reached by partial product of slice 59
+[aigmultopoly] AIGER literal 23500 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 23534 on slice 61 but reached by partial product of slice 60
+[aigmultopoly] AIGER literal 23534 was promoted
+[aigmultopoly] *** WARNING *** AIGER literal 23550 on slice 62 but reached by partial product of slice 61
+[aigmultopoly] AIGER literal 23550 was promoted
+[aigmultopoly] reducing size of slice 31 from 367 to 366
+[aigmultopoly] reducing size of slice 32 from 366 to 365
+[aigmultopoly] reducing size of slice 33 from 361 to 360
+[aigmultopoly] reducing size of slice 34 from 349 to 348
+[aigmultopoly] reducing size of slice 35 from 337 to 336
+[aigmultopoly] reducing size of slice 36 from 325 to 324
+[aigmultopoly] reducing size of slice 37 from 313 to 312
+[aigmultopoly] reducing size of slice 38 from 301 to 300
+[aigmultopoly] reducing size of slice 39 from 289 to 288
+[aigmultopoly] reducing size of slice 40 from 277 to 276
+[aigmultopoly] reducing size of slice 41 from 265 to 264
+[aigmultopoly] reducing size of slice 42 from 253 to 252
+[aigmultopoly] reducing size of slice 43 from 241 to 240
+[aigmultopoly] reducing size of slice 44 from 229 to 228
+[aigmultopoly] reducing size of slice 45 from 217 to 216
+[aigmultopoly] reducing size of slice 46 from 205 to 204
+[aigmultopoly] reducing size of slice 47 from 193 to 192
+[aigmultopoly] reducing size of slice 48 from 181 to 180
+[aigmultopoly] reducing size of slice 49 from 169 to 168
+[aigmultopoly] reducing size of slice 50 from 157 to 156
+[aigmultopoly] reducing size of slice 51 from 145 to 144
+[aigmultopoly] reducing size of slice 52 from 133 to 132
+[aigmultopoly] reducing size of slice 53 from 121 to 120
+[aigmultopoly] reducing size of slice 54 from 109 to 108
+[aigmultopoly] reducing size of slice 55 from 97 to 96
+[aigmultopoly] reducing size of slice 56 from 85 to 84
+[aigmultopoly] reducing size of slice 57 from 73 to 72
+[aigmultopoly] reducing size of slice 58 from 61 to 60
+[aigmultopoly] reducing size of slice 59 from 49 to 48
+[aigmultopoly] reducing size of slice 60 from 37 to 36
+[aigmultopoly] reducing size of slice 61 from 25 to 24
+[aigmultopoly] maximum level 1 in slice 0
+[aigmultopoly] maximum level 3 in slice 1
+[aigmultopoly] maximum level 7 in slice 2
+[aigmultopoly] maximum level 9 in slice 3
+[aigmultopoly] maximum level 11 in slice 4
+[aigmultopoly] maximum level 13 in slice 5
+[aigmultopoly] maximum level 15 in slice 6
+[aigmultopoly] maximum level 17 in slice 7
+[aigmultopoly] maximum level 19 in slice 8
+[aigmultopoly] maximum level 21 in slice 9
+[aigmultopoly] maximum level 23 in slice 10
+[aigmultopoly] maximum level 25 in slice 11
+[aigmultopoly] maximum level 27 in slice 12
+[aigmultopoly] maximum level 29 in slice 13
+[aigmultopoly] maximum level 31 in slice 14
+[aigmultopoly] maximum level 33 in slice 15
+[aigmultopoly] maximum level 35 in slice 16
+[aigmultopoly] maximum level 37 in slice 17
+[aigmultopoly] maximum level 39 in slice 18
+[aigmultopoly] maximum level 41 in slice 19
+[aigmultopoly] maximum level 43 in slice 20
+[aigmultopoly] maximum level 45 in slice 21
+[aigmultopoly] maximum level 47 in slice 22
+[aigmultopoly] maximum level 49 in slice 23
+[aigmultopoly] maximum level 51 in slice 24
+[aigmultopoly] maximum level 53 in slice 25
+[aigmultopoly] maximum level 55 in slice 26
+[aigmultopoly] maximum level 57 in slice 27
+[aigmultopoly] maximum level 59 in slice 28
+[aigmultopoly] maximum level 61 in slice 29
+[aigmultopoly] maximum level 63 in slice 30
+[aigmultopoly] maximum level 65 in slice 31
+[aigmultopoly] maximum level 65 in slice 32
+[aigmultopoly] maximum level 65 in slice 33
+[aigmultopoly] maximum level 63 in slice 34
+[aigmultopoly] maximum level 61 in slice 35
+[aigmultopoly] maximum level 59 in slice 36
+[aigmultopoly] maximum level 57 in slice 37
+[aigmultopoly] maximum level 55 in slice 38
+[aigmultopoly] maximum level 53 in slice 39
+[aigmultopoly] maximum level 51 in slice 40
+[aigmultopoly] maximum level 49 in slice 41
+[aigmultopoly] maximum level 47 in slice 42
+[aigmultopoly] maximum level 45 in slice 43
+[aigmultopoly] maximum level 43 in slice 44
+[aigmultopoly] maximum level 41 in slice 45
+[aigmultopoly] maximum level 39 in slice 46
+[aigmultopoly] maximum level 37 in slice 47
+[aigmultopoly] maximum level 35 in slice 48
+[aigmultopoly] maximum level 33 in slice 49
+[aigmultopoly] maximum level 31 in slice 50
+[aigmultopoly] maximum level 29 in slice 51
+[aigmultopoly] maximum level 27 in slice 52
+[aigmultopoly] maximum level 25 in slice 53
+[aigmultopoly] maximum level 23 in slice 54
+[aigmultopoly] maximum level 21 in slice 55
+[aigmultopoly] maximum level 19 in slice 56
+[aigmultopoly] maximum level 17 in slice 57
+[aigmultopoly] maximum level 15 in slice 58
+[aigmultopoly] maximum level 13 in slice 59
+[aigmultopoly] maximum level 11 in slice 60
+[aigmultopoly] maximum level 9 in slice 61
+[aigmultopoly] maximum level 5 in slice 62
+[aigmultopoly] maximum level 0 in slice 63
+[aigmultopoly] distance updated of 11361 in round 31 from 0 to 94
+[aigmultopoly] distance updated of 10639 in round 30 from 0 to 95
+[aigmultopoly] distance updated of 9941 in round 29 from 0 to 96
+[aigmultopoly] distance updated of 9267 in round 28 from 0 to 97
+[aigmultopoly] distance updated of 8617 in round 27 from 0 to 98
+[aigmultopoly] distance updated of 7991 in round 26 from 0 to 99
+[aigmultopoly] distance updated of 7389 in round 25 from 0 to 100
+[aigmultopoly] distance updated of 6811 in round 24 from 0 to 101
+[aigmultopoly] distance updated of 6257 in round 23 from 0 to 102
+[aigmultopoly] distance updated of 5727 in round 22 from 0 to 103
+[aigmultopoly] distance updated of 5221 in round 21 from 0 to 104
+[aigmultopoly] distance updated of 4739 in round 20 from 0 to 105
+[aigmultopoly] distance updated of 4281 in round 19 from 0 to 106
+[aigmultopoly] distance updated of 3847 in round 18 from 0 to 107
+[aigmultopoly] distance updated of 3437 in round 17 from 0 to 108
+[aigmultopoly] distance updated of 3051 in round 16 from 0 to 109
+[aigmultopoly] distance updated of 2689 in round 15 from 0 to 110
+[aigmultopoly] distance updated of 2351 in round 14 from 0 to 111
+[aigmultopoly] distance updated of 2037 in round 13 from 0 to 112
+[aigmultopoly] distance updated of 1747 in round 12 from 0 to 113
+[aigmultopoly] distance updated of 1481 in round 11 from 0 to 114
+[aigmultopoly] distance updated of 1239 in round 10 from 0 to 115
+[aigmultopoly] distance updated of 1021 in round 9 from 0 to 116
+[aigmultopoly] distance updated of 827 in round 8 from 0 to 117
+[aigmultopoly] distance updated of 657 in round 7 from 0 to 118
+[aigmultopoly] distance updated of 511 in round 6 from 0 to 119
+[aigmultopoly] distance updated of 389 in round 5 from 0 to 120
+[aigmultopoly] distance updated of 291 in round 4 from 0 to 121
+[aigmultopoly] distance updated of 217 in round 3 from 0 to 122
+[aigmultopoly] distance updated of 167 in round 2 from 0 to 123
+[aigmultopoly] distance updated of 141 in round 1 from 0 to 124
+[aigmultopoly] distance updated of 130 in round 0 from 0 to 184
+[aigmultopoly] maximum output distance 184
+[aigmultopoly] found 3936 literals with output distance 0
+[aigmultopoly] found 33 literals with output distance 1
+[aigmultopoly] found 2 literals with output distance 2
+[aigmultopoly] found 3 literals with output distance 3
+[aigmultopoly] found 4 literals with output distance 4
+[aigmultopoly] found 4 literals with output distance 5
+[aigmultopoly] found 3 literals with output distance 6
+[aigmultopoly] found 6 literals with output distance 7
+[aigmultopoly] found 6 literals with output distance 8
+[aigmultopoly] found 5 literals with output distance 9
+[aigmultopoly] found 8 literals with output distance 10
+[aigmultopoly] found 8 literals with output distance 11
+[aigmultopoly] found 7 literals with output distance 12
+[aigmultopoly] found 10 literals with output distance 13
+[aigmultopoly] found 10 literals with output distance 14
+[aigmultopoly] found 9 literals with output distance 15
+[aigmultopoly] found 12 literals with output distance 16
+[aigmultopoly] found 12 literals with output distance 17
+[aigmultopoly] found 11 literals with output distance 18
+[aigmultopoly] found 14 literals with output distance 19
+[aigmultopoly] found 14 literals with output distance 20
+[aigmultopoly] found 13 literals with output distance 21
+[aigmultopoly] found 16 literals with output distance 22
+[aigmultopoly] found 16 literals with output distance 23
+[aigmultopoly] found 15 literals with output distance 24
+[aigmultopoly] found 18 literals with output distance 25
+[aigmultopoly] found 18 literals with output distance 26
+[aigmultopoly] found 17 literals with output distance 27
+[aigmultopoly] found 20 literals with output distance 28
+[aigmultopoly] found 20 literals with output distance 29
+[aigmultopoly] found 19 literals with output distance 30
+[aigmultopoly] found 22 literals with output distance 31
+[aigmultopoly] found 22 literals with output distance 32
+[aigmultopoly] found 21 literals with output distance 33
+[aigmultopoly] found 24 literals with output distance 34
+[aigmultopoly] found 24 literals with output distance 35
+[aigmultopoly] found 23 literals with output distance 36
+[aigmultopoly] found 26 literals with output distance 37
+[aigmultopoly] found 26 literals with output distance 38
+[aigmultopoly] found 25 literals with output distance 39
+[aigmultopoly] found 28 literals with output distance 40
+[aigmultopoly] found 28 literals with output distance 41
+[aigmultopoly] found 27 literals with output distance 42
+[aigmultopoly] found 30 literals with output distance 43
+[aigmultopoly] found 30 literals with output distance 44
+[aigmultopoly] found 29 literals with output distance 45
+[aigmultopoly] found 32 literals with output distance 46
+[aigmultopoly] found 32 literals with output distance 47
+[aigmultopoly] found 31 literals with output distance 48
+[aigmultopoly] found 34 literals with output distance 49
+[aigmultopoly] found 34 literals with output distance 50
+[aigmultopoly] found 33 literals with output distance 51
+[aigmultopoly] found 36 literals with output distance 52
+[aigmultopoly] found 36 literals with output distance 53
+[aigmultopoly] found 35 literals with output distance 54
+[aigmultopoly] found 38 literals with output distance 55
+[aigmultopoly] found 38 literals with output distance 56
+[aigmultopoly] found 37 literals with output distance 57
+[aigmultopoly] found 40 literals with output distance 58
+[aigmultopoly] found 40 literals with output distance 59
+[aigmultopoly] found 39 literals with output distance 60
+[aigmultopoly] found 42 literals with output distance 61
+[aigmultopoly] found 42 literals with output distance 62
+[aigmultopoly] found 41 literals with output distance 63
+[aigmultopoly] found 44 literals with output distance 64
+[aigmultopoly] found 44 literals with output distance 65
+[aigmultopoly] found 43 literals with output distance 66
+[aigmultopoly] found 46 literals with output distance 67
+[aigmultopoly] found 46 literals with output distance 68
+[aigmultopoly] found 45 literals with output distance 69
+[aigmultopoly] found 48 literals with output distance 70
+[aigmultopoly] found 48 literals with output distance 71
+[aigmultopoly] found 47 literals with output distance 72
+[aigmultopoly] found 50 literals with output distance 73
+[aigmultopoly] found 50 literals with output distance 74
+[aigmultopoly] found 49 literals with output distance 75
+[aigmultopoly] found 52 literals with output distance 76
+[aigmultopoly] found 52 literals with output distance 77
+[aigmultopoly] found 51 literals with output distance 78
+[aigmultopoly] found 54 literals with output distance 79
+[aigmultopoly] found 54 literals with output distance 80
+[aigmultopoly] found 53 literals with output distance 81
+[aigmultopoly] found 56 literals with output distance 82
+[aigmultopoly] found 56 literals with output distance 83
+[aigmultopoly] found 55 literals with output distance 84
+[aigmultopoly] found 58 literals with output distance 85
+[aigmultopoly] found 58 literals with output distance 86
+[aigmultopoly] found 57 literals with output distance 87
+[aigmultopoly] found 60 literals with output distance 88
+[aigmultopoly] found 60 literals with output distance 89
+[aigmultopoly] found 59 literals with output distance 90
+[aigmultopoly] found 62 literals with output distance 91
+[aigmultopoly] found 62 literals with output distance 92
+[aigmultopoly] found 62 literals with output distance 93
+[aigmultopoly] found 65 literals with output distance 94
+[aigmultopoly] found 66 literals with output distance 95
+[aigmultopoly] found 67 literals with output distance 96
+[aigmultopoly] found 68 literals with output distance 97
+[aigmultopoly] found 67 literals with output distance 98
+[aigmultopoly] found 67 literals with output distance 99
+[aigmultopoly] found 68 literals with output distance 100
+[aigmultopoly] found 67 literals with output distance 101
+[aigmultopoly] found 68 literals with output distance 102
+[aigmultopoly] found 69 literals with output distance 103
+[aigmultopoly] found 67 literals with output distance 104
+[aigmultopoly] found 68 literals with output distance 105
+[aigmultopoly] found 69 literals with output distance 106
+[aigmultopoly] found 68 literals with output distance 107
+[aigmultopoly] found 69 literals with output distance 108
+[aigmultopoly] found 69 literals with output distance 109
+[aigmultopoly] found 68 literals with output distance 110
+[aigmultopoly] found 69 literals with output distance 111
+[aigmultopoly] found 70 literals with output distance 112
+[aigmultopoly] found 69 literals with output distance 113
+[aigmultopoly] found 69 literals with output distance 114
+[aigmultopoly] found 70 literals with output distance 115
+[aigmultopoly] found 69 literals with output distance 116
+[aigmultopoly] found 70 literals with output distance 117
+[aigmultopoly] found 71 literals with output distance 118
+[aigmultopoly] found 69 literals with output distance 119
+[aigmultopoly] found 70 literals with output distance 120
+[aigmultopoly] found 69 literals with output distance 121
+[aigmultopoly] found 68 literals with output distance 122
+[aigmultopoly] found 71 literals with output distance 123
+[aigmultopoly] found 68 literals with output distance 124
+[aigmultopoly] found 64 literals with output distance 125
+[aigmultopoly] found 65 literals with output distance 126
+[aigmultopoly] found 67 literals with output distance 127
+[aigmultopoly] found 63 literals with output distance 128
+[aigmultopoly] found 63 literals with output distance 129
+[aigmultopoly] found 65 literals with output distance 130
+[aigmultopoly] found 61 literals with output distance 131
+[aigmultopoly] found 62 literals with output distance 132
+[aigmultopoly] found 64 literals with output distance 133
+[aigmultopoly] found 59 literals with output distance 134
+[aigmultopoly] found 60 literals with output distance 135
+[aigmultopoly] found 62 literals with output distance 136
+[aigmultopoly] found 58 literals with output distance 137
+[aigmultopoly] found 59 literals with output distance 138
+[aigmultopoly] found 60 literals with output distance 139
+[aigmultopoly] found 56 literals with output distance 140
+[aigmultopoly] found 57 literals with output distance 141
+[aigmultopoly] found 59 literals with output distance 142
+[aigmultopoly] found 55 literals with output distance 143
+[aigmultopoly] found 55 literals with output distance 144
+[aigmultopoly] found 57 literals with output distance 145
+[aigmultopoly] found 53 literals with output distance 146
+[aigmultopoly] found 54 literals with output distance 147
+[aigmultopoly] found 56 literals with output distance 148
+[aigmultopoly] found 51 literals with output distance 149
+[aigmultopoly] found 52 literals with output distance 150
+[aigmultopoly] found 54 literals with output distance 151
+[aigmultopoly] found 50 literals with output distance 152
+[aigmultopoly] found 51 literals with output distance 153
+[aigmultopoly] found 52 literals with output distance 154
+[aigmultopoly] found 48 literals with output distance 155
+[aigmultopoly] found 49 literals with output distance 156
+[aigmultopoly] found 51 literals with output distance 157
+[aigmultopoly] found 47 literals with output distance 158
+[aigmultopoly] found 47 literals with output distance 159
+[aigmultopoly] found 49 literals with output distance 160
+[aigmultopoly] found 45 literals with output distance 161
+[aigmultopoly] found 46 literals with output distance 162
+[aigmultopoly] found 48 literals with output distance 163
+[aigmultopoly] found 43 literals with output distance 164
+[aigmultopoly] found 44 literals with output distance 165
+[aigmultopoly] found 46 literals with output distance 166
+[aigmultopoly] found 42 literals with output distance 167
+[aigmultopoly] found 43 literals with output distance 168
+[aigmultopoly] found 42 literals with output distance 169
+[aigmultopoly] found 38 literals with output distance 170
+[aigmultopoly] found 36 literals with output distance 171
+[aigmultopoly] found 34 literals with output distance 172
+[aigmultopoly] found 30 literals with output distance 173
+[aigmultopoly] found 28 literals with output distance 174
+[aigmultopoly] found 26 literals with output distance 175
+[aigmultopoly] found 22 literals with output distance 176
+[aigmultopoly] found 20 literals with output distance 177
+[aigmultopoly] found 18 literals with output distance 178
+[aigmultopoly] found 14 literals with output distance 179
+[aigmultopoly] found 12 literals with output distance 180
+[aigmultopoly] found 10 literals with output distance 181
+[aigmultopoly] found 6 literals with output distance 182
+[aigmultopoly] found 5 literals with output distance 183
+[aigmultopoly] found 6 literals with output distance 184
+[aigmultopoly] named 11776 polynomials in total
+[aigmultopoly] found 0 carries in slice 0
+[aigmultopoly] found 1 carries in slice 1
+[aigmultopoly] found 2 carries in slice 2
+[aigmultopoly] found 3 carries in slice 3
+[aigmultopoly] found 4 carries in slice 4
+[aigmultopoly] found 5 carries in slice 5
+[aigmultopoly] found 6 carries in slice 6
+[aigmultopoly] found 7 carries in slice 7
+[aigmultopoly] found 8 carries in slice 8
+[aigmultopoly] found 9 carries in slice 9
+[aigmultopoly] found 10 carries in slice 10
+[aigmultopoly] found 11 carries in slice 11
+[aigmultopoly] found 12 carries in slice 12
+[aigmultopoly] found 13 carries in slice 13
+[aigmultopoly] found 14 carries in slice 14
+[aigmultopoly] found 15 carries in slice 15
+[aigmultopoly] found 16 carries in slice 16
+[aigmultopoly] found 17 carries in slice 17
+[aigmultopoly] found 18 carries in slice 18
+[aigmultopoly] found 19 carries in slice 19
+[aigmultopoly] found 20 carries in slice 20
+[aigmultopoly] found 21 carries in slice 21
+[aigmultopoly] found 22 carries in slice 22
+[aigmultopoly] found 23 carries in slice 23
+[aigmultopoly] found 24 carries in slice 24
+[aigmultopoly] found 25 carries in slice 25
+[aigmultopoly] found 26 carries in slice 26
+[aigmultopoly] found 27 carries in slice 27
+[aigmultopoly] found 28 carries in slice 28
+[aigmultopoly] found 29 carries in slice 29
+[aigmultopoly] found 30 carries in slice 30
+[aigmultopoly] found 31 carries in slice 31
+[aigmultopoly] found 31 carries in slice 32
+[aigmultopoly] found 30 carries in slice 33
+[aigmultopoly] found 29 carries in slice 34
+[aigmultopoly] found 28 carries in slice 35
+[aigmultopoly] found 27 carries in slice 36
+[aigmultopoly] found 26 carries in slice 37
+[aigmultopoly] found 25 carries in slice 38
+[aigmultopoly] found 24 carries in slice 39
+[aigmultopoly] found 23 carries in slice 40
+[aigmultopoly] found 22 carries in slice 41
+[aigmultopoly] found 21 carries in slice 42
+[aigmultopoly] found 20 carries in slice 43
+[aigmultopoly] found 19 carries in slice 44
+[aigmultopoly] found 18 carries in slice 45
+[aigmultopoly] found 17 carries in slice 46
+[aigmultopoly] found 16 carries in slice 47
+[aigmultopoly] found 15 carries in slice 48
+[aigmultopoly] found 14 carries in slice 49
+[aigmultopoly] found 13 carries in slice 50
+[aigmultopoly] found 12 carries in slice 51
+[aigmultopoly] found 11 carries in slice 52
+[aigmultopoly] found 10 carries in slice 53
+[aigmultopoly] found 9 carries in slice 54
+[aigmultopoly] found 8 carries in slice 55
+[aigmultopoly] found 7 carries in slice 56
+[aigmultopoly] found 6 carries in slice 57
+[aigmultopoly] found 5 carries in slice 58
+[aigmultopoly] found 4 carries in slice 59
+[aigmultopoly] found 3 carries in slice 60
+[aigmultopoly] found 2 carries in slice 61
+[aigmultopoly] found 1 carries in slice 62
+[aigmultopoly] found 0 carries in slice 63
+[aigmultopoly] found 0 vanishing constraints in slice 0
+[aigmultopoly] found 0 vanishing constraints in slice 1
+[aigmultopoly] found 6 vanishing constraints in slice 2
+[aigmultopoly] found 12 vanishing constraints in slice 3
+[aigmultopoly] found 18 vanishing constraints in slice 4
+[aigmultopoly] found 24 vanishing constraints in slice 5
+[aigmultopoly] found 30 vanishing constraints in slice 6
+[aigmultopoly] found 36 vanishing constraints in slice 7
+[aigmultopoly] found 42 vanishing constraints in slice 8
+[aigmultopoly] found 48 vanishing constraints in slice 9
+[aigmultopoly] found 54 vanishing constraints in slice 10
+[aigmultopoly] found 60 vanishing constraints in slice 11
+[aigmultopoly] found 66 vanishing constraints in slice 12
+[aigmultopoly] found 72 vanishing constraints in slice 13
+[aigmultopoly] found 78 vanishing constraints in slice 14
+[aigmultopoly] found 84 vanishing constraints in slice 15
+[aigmultopoly] found 90 vanishing constraints in slice 16
+[aigmultopoly] found 96 vanishing constraints in slice 17
+[aigmultopoly] found 102 vanishing constraints in slice 18
+[aigmultopoly] found 108 vanishing constraints in slice 19
+[aigmultopoly] found 114 vanishing constraints in slice 20
+[aigmultopoly] found 120 vanishing constraints in slice 21
+[aigmultopoly] found 126 vanishing constraints in slice 22
+[aigmultopoly] found 132 vanishing constraints in slice 23
+[aigmultopoly] found 138 vanishing constraints in slice 24
+[aigmultopoly] found 144 vanishing constraints in slice 25
+[aigmultopoly] found 150 vanishing constraints in slice 26
+[aigmultopoly] found 156 vanishing constraints in slice 27
+[aigmultopoly] found 162 vanishing constraints in slice 28
+[aigmultopoly] found 168 vanishing constraints in slice 29
+[aigmultopoly] found 174 vanishing constraints in slice 30
+[aigmultopoly] found 180 vanishing constraints in slice 31
+[aigmultopoly] found 180 vanishing constraints in slice 32
+[aigmultopoly] found 178 vanishing constraints in slice 33
+[aigmultopoly] found 172 vanishing constraints in slice 34
+[aigmultopoly] found 166 vanishing constraints in slice 35
+[aigmultopoly] found 160 vanishing constraints in slice 36
+[aigmultopoly] found 154 vanishing constraints in slice 37
+[aigmultopoly] found 148 vanishing constraints in slice 38
+[aigmultopoly] found 142 vanishing constraints in slice 39
+[aigmultopoly] found 136 vanishing constraints in slice 40
+[aigmultopoly] found 130 vanishing constraints in slice 41
+[aigmultopoly] found 124 vanishing constraints in slice 42
+[aigmultopoly] found 118 vanishing constraints in slice 43
+[aigmultopoly] found 112 vanishing constraints in slice 44
+[aigmultopoly] found 106 vanishing constraints in slice 45
+[aigmultopoly] found 100 vanishing constraints in slice 46
+[aigmultopoly] found 94 vanishing constraints in slice 47
+[aigmultopoly] found 88 vanishing constraints in slice 48
+[aigmultopoly] found 82 vanishing constraints in slice 49
+[aigmultopoly] found 76 vanishing constraints in slice 50
+[aigmultopoly] found 70 vanishing constraints in slice 51
+[aigmultopoly] found 64 vanishing constraints in slice 52
+[aigmultopoly] found 58 vanishing constraints in slice 53
+[aigmultopoly] found 52 vanishing constraints in slice 54
+[aigmultopoly] found 46 vanishing constraints in slice 55
+[aigmultopoly] found 40 vanishing constraints in slice 56
+[aigmultopoly] found 34 vanishing constraints in slice 57
+[aigmultopoly] found 28 vanishing constraints in slice 58
+[aigmultopoly] found 22 vanishing constraints in slice 59
+[aigmultopoly] found 16 vanishing constraints in slice 60
+[aigmultopoly] found 10 vanishing constraints in slice 61
+[aigmultopoly] found 4 vanishing constraints in slice 62
+[aigmultopoly] found 0 vanishing constraints in slice 63
+[aigmultopoly] found 5700 vanishing XOR constraints in total
+[aigmultopoly] printed 11776 polynomials in total
+[aigmultopoly] using column wise incremental word-level reasoning
+[aigmultopoly] 
+[aigmultopoly] maximum resident set size:          3.75 MB
+[aigmultopoly] used process time:                  0.10 seconds
+1 - AndOcc1Slice62Level4Order10Distance0 Bit63
+2 - AndSlice61Level4Order12Distance3 - AndSlice61Level8Order22Distance3 Bit62
+3 - AndSlice60Level10Order34Distance6 - AndSlice60Level4Order17Distance8 - AndSlice60Level8Order27Distance6 Bit61
+4 - AndSlice59Level10Order39Distance9 - AndSlice59Level12Order46Distance9 - AndSlice59Level4Order22Distance12 - AndSlice59Level8Order34Distance11 Bit60
+5 - AndSlice58Level10Order46Distance14 - AndSlice58Level12Order51Distance12 - AndSlice58Level14Order58Distance12 - AndSlice58Level4Order27Distance16 - AndSlice58Level8Order39Distance15 Bit59
+6 - AndSlice57Level10Order51Distance18 - AndSlice57Level12Order58Distance17 - AndSlice57Level14Order63Distance15 - AndSlice57Level16Order70Distance15 - AndSlice57Level4Order32Distance20 - AndSlice57Level8Order44Distance19 Bit58
+7 - AndSlice56Level10Order56Distance22 - AndSlice56Level12Order63Distance21 - AndSlice56Level14Order70Distance20 - AndSlice56Level16Order75Distance18 - AndSlice56Level18Order82Distance18 - AndSlice56Level4Order37Distance24 - AndSlice56Level8Order49Distance23 Bit57
+8 - AndSlice55Level10Order61Distance26 - AndSlice55Level12Order68Distance25 - AndSlice55Level14Order75Distance24 - AndSlice55Level16Order82Distance23 - AndSlice55Level18Order87Distance21 - AndSlice55Level20Order94Distance21 - AndSlice55Level4Order42Distance28 - AndSlice55Level8Order54Distance27 Bit56
+9 - AndSlice54Level10Order66Distance30 - AndSlice54Level12Order73Distance29 - AndSlice54Level14Order80Distance28 - AndSlice54Level16Order87Distance27 - AndSlice54Level18Order94Distance26 - AndSlice54Level20Order99Distance24 - AndSlice54Level22Order106Distance24 - AndSlice54Level4Order47Distance32 - AndSlice54Level8Order59Distance31 Bit55
+10 - AndSlice53Level10Order71Distance34 - AndSlice53Level12Order78Distance33 - AndSlice53Level14Order85Distance32 - AndSlice53Level16Order92Distance31 - AndSlice53Level18Order99Distance30 - AndSlice53Level20Order106Distance29 - AndSlice53Level22Order111Distance27 - AndSlice53Level24Order118Distance27 - AndSlice53Level4Order52Distance36 - AndSlice53Level8Order64Distance35 Bit54
+11 - AndSlice52Level10Order76Distance38 - AndSlice52Level12Order83Distance37 - AndSlice52Level14Order90Distance36 - AndSlice52Level16Order97Distance35 - AndSlice52Level18Order104Distance34 - AndSlice52Level20Order111Distance33 - AndSlice52Level22Order118Distance32 - AndSlice52Level24Order123Distance30 - AndSlice52Level26Order130Distance30 - AndSlice52Level4Order57Distance40 - AndSlice52Level8Order69Distance39 Bit53
+12 - AndSlice51Level10Order81Distance42 - AndSlice51Level12Order88Distance41 - AndSlice51Level14Order95Distance40 - AndSlice51Level16Order102Distance39 - AndSlice51Level18Order109Distance38 - AndSlice51Level20Order116Distance37 - AndSlice51Level22Order123Distance36 - AndSlice51Level24Order130Distance35 - AndSlice51Level26Order135Distance33 - AndSlice51Level28Order142Distance33 - AndSlice51Level4Order62Distance44 - AndSlice51Level8Order74Distance43 Bit52
+13 - AndSlice50Level10Order86Distance46 - AndSlice50Level12Order93Distance45 - AndSlice50Level14Order100Distance44 - AndSlice50Level16Order107Distance43 - AndSlice50Level18Order114Distance42 - AndSlice50Level20Order121Distance41 - AndSlice50Level22Order128Distance40 - AndSlice50Level24Order135Distance39 - AndSlice50Level26Order142Distance38 - AndSlice50Level28Order147Distance36 - AndSlice50Level30Order154Distance36 - AndSlice50Level4Order67Distance48 - AndSlice50Level8Order79Distance47 Bit51
+14 - AndSlice49Level10Order91Distance50 - AndSlice49Level12Order98Distance49 - AndSlice49Level14Order105Distance48 - AndSlice49Level16Order112Distance47 - AndSlice49Level18Order119Distance46 - AndSlice49Level20Order126Distance45 - AndSlice49Level22Order133Distance44 - AndSlice49Level24Order140Distance43 - AndSlice49Level26Order147Distance42 - AndSlice49Level28Order154Distance41 - AndSlice49Level30Order159Distance39 - AndSlice49Level32Order166Distance39 - AndSlice49Level4Order72Distance52 - AndSlice49Level8Order84Distance51 Bit50
+15 - AndSlice48Level10Order96Distance54 - AndSlice48Level12Order103Distance53 - AndSlice48Level14Order110Distance52 - AndSlice48Level16Order117Distance51 - AndSlice48Level18Order124Distance50 - AndSlice48Level20Order131Distance49 - AndSlice48Level22Order138Distance48 - AndSlice48Level24Order145Distance47 - AndSlice48Level26Order152Distance46 - AndSlice48Level28Order159Distance45 - AndSlice48Level30Order166Distance44 - AndSlice48Level32Order171Distance42 - AndSlice48Level34Order178Distance42 - AndSlice48Level4Order77Distance56 - AndSlice48Level8Order89Distance55 Bit49
+16 - AndSlice47Level10Order101Distance58 - AndSlice47Level12Order108Distance57 - AndSlice47Level14Order115Distance56 - AndSlice47Level16Order122Distance55 - AndSlice47Level18Order129Distance54 - AndSlice47Level20Order136Distance53 - AndSlice47Level22Order143Distance52 - AndSlice47Level24Order150Distance51 - AndSlice47Level26Order157Distance50 - AndSlice47Level28Order164Distance49 - AndSlice47Level30Order171Distance48 - AndSlice47Level32Order178Distance47 - AndSlice47Level34Order183Distance45 - AndSlice47Level36Order190Distance45 - AndSlice47Level4Order82Distance60 - AndSlice47Level8Order94Distance59 Bit48
+17 - AndSlice46Level10Order106Distance62 - AndSlice46Level12Order113Distance61 - AndSlice46Level14Order120Distance60 - AndSlice46Level16Order127Distance59 - AndSlice46Level18Order134Distance58 - AndSlice46Level20Order141Distance57 - AndSlice46Level22Order148Distance56 - AndSlice46Level24Order155Distance55 - AndSlice46Level26Order162Distance54 - AndSlice46Level28Order169Distance53 - AndSlice46Level30Order176Distance52 - AndSlice46Level32Order183Distance51 - AndSlice46Level34Order190Distance50 - AndSlice46Level36Order195Distance48 - AndSlice46Level38Order202Distance48 - AndSlice46Level4Order87Distance64 - AndSlice46Level8Order99Distance63 Bit47
+18 - AndSlice45Level10Order111Distance66 - AndSlice45Level12Order118Distance65 - AndSlice45Level14Order125Distance64 - AndSlice45Level16Order132Distance63 - AndSlice45Level18Order139Distance62 - AndSlice45Level20Order146Distance61 - AndSlice45Level22Order153Distance60 - AndSlice45Level24Order160Distance59 - AndSlice45Level26Order167Distance58 - AndSlice45Level28Order174Distance57 - AndSlice45Level30Order181Distance56 - AndSlice45Level32Order188Distance55 - AndSlice45Level34Order195Distance54 - AndSlice45Level36Order202Distance53 - AndSlice45Level38Order207Distance51 - AndSlice45Level40Order214Distance51 - AndSlice45Level4Order92Distance68 - AndSlice45Level8Order104Distance67 Bit46
+19 - AndSlice44Level10Order116Distance70 - AndSlice44Level12Order123Distance69 - AndSlice44Level14Order130Distance68 - AndSlice44Level16Order137Distance67 - AndSlice44Level18Order144Distance66 - AndSlice44Level20Order151Distance65 - AndSlice44Level22Order158Distance64 - AndSlice44Level24Order165Distance63 - AndSlice44Level26Order172Distance62 - AndSlice44Level28Order179Distance61 - AndSlice44Level30Order186Distance60 - AndSlice44Level32Order193Distance59 - AndSlice44Level34Order200Distance58 - AndSlice44Level36Order207Distance57 - AndSlice44Level38Order214Distance56 - AndSlice44Level40Order219Distance54 - AndSlice44Level42Order226Distance54 - AndSlice44Level4Order97Distance72 - AndSlice44Level8Order109Distance71 Bit45
+20 - AndSlice43Level10Order121Distance74 - AndSlice43Level12Order128Distance73 - AndSlice43Level14Order135Distance72 - AndSlice43Level16Order142Distance71 - AndSlice43Level18Order149Distance70 - AndSlice43Level20Order156Distance69 - AndSlice43Level22Order163Distance68 - AndSlice43Level24Order170Distance67 - AndSlice43Level26Order177Distance66 - AndSlice43Level28Order184Distance65 - AndSlice43Level30Order191Distance64 - AndSlice43Level32Order198Distance63 - AndSlice43Level34Order205Distance62 - AndSlice43Level36Order212Distance61 - AndSlice43Level38Order219Distance60 - AndSlice43Level40Order226Distance59 - AndSlice43Level42Order231Distance57 - AndSlice43Level44Order238Distance57 - AndSlice43Level4Order102Distance76 - AndSlice43Level8Order114Distance75 Bit44
+21 - AndSlice42Level10Order126Distance78 - AndSlice42Level12Order133Distance77 - AndSlice42Level14Order140Distance76 - AndSlice42Level16Order147Distance75 - AndSlice42Level18Order154Distance74 - AndSlice42Level20Order161Distance73 - AndSlice42Level22Order168Distance72 - AndSlice42Level24Order175Distance71 - AndSlice42Level26Order182Distance70 - AndSlice42Level28Order189Distance69 - AndSlice42Level30Order196Distance68 - AndSlice42Level32Order203Distance67 - AndSlice42Level34Order210Distance66 - AndSlice42Level36Order217Distance65 - AndSlice42Level38Order224Distance64 - AndSlice42Level40Order231Distance63 - AndSlice42Level42Order238Distance62 - AndSlice42Level44Order243Distance60 - AndSlice42Level46Order250Distance60 - AndSlice42Level4Order107Distance80 - AndSlice42Level8Order119Distance79 Bit43
+22 - AndSlice41Level10Order131Distance82 - AndSlice41Level12Order138Distance81 - AndSlice41Level14Order145Distance80 - AndSlice41Level16Order152Distance79 - AndSlice41Level18Order159Distance78 - AndSlice41Level20Order166Distance77 - AndSlice41Level22Order173Distance76 - AndSlice41Level24Order180Distance75 - AndSlice41Level26Order187Distance74 - AndSlice41Level28Order194Distance73 - AndSlice41Level30Order201Distance72 - AndSlice41Level32Order208Distance71 - AndSlice41Level34Order215Distance70 - AndSlice41Level36Order222Distance69 - AndSlice41Level38Order229Distance68 - AndSlice41Level40Order236Distance67 - AndSlice41Level42Order243Distance66 - AndSlice41Level44Order250Distance65 - AndSlice41Level46Order255Distance63 - AndSlice41Level48Order262Distance63 - AndSlice41Level4Order112Distance84 - AndSlice41Level8Order124Distance83 Bit42
+23 - AndSlice40Level10Order136Distance86 - AndSlice40Level12Order143Distance85 - AndSlice40Level14Order150Distance84 - AndSlice40Level16Order157Distance83 - AndSlice40Level18Order164Distance82 - AndSlice40Level20Order171Distance81 - AndSlice40Level22Order178Distance80 - AndSlice40Level24Order185Distance79 - AndSlice40Level26Order192Distance78 - AndSlice40Level28Order199Distance77 - AndSlice40Level30Order206Distance76 - AndSlice40Level32Order213Distance75 - AndSlice40Level34Order220Distance74 - AndSlice40Level36Order227Distance73 - AndSlice40Level38Order234Distance72 - AndSlice40Level40Order241Distance71 - AndSlice40Level42Order248Distance70 - AndSlice40Level44Order255Distance69 - AndSlice40Level46Order262Distance68 - AndSlice40Level48Order267Distance66 - AndSlice40Level4Order117Distance88 - AndSlice40Level50Order274Distance66 - AndSlice40Level8Order129Distance87 Bit41
+24 - AndSlice39Level10Order141Distance90 - AndSlice39Level12Order148Distance89 - AndSlice39Level14Order155Distance88 - AndSlice39Level16Order162Distance87 - AndSlice39Level18Order169Distance86 - AndSlice39Level20Order176Distance85 - AndSlice39Level22Order183Distance84 - AndSlice39Level24Order190Distance83 - AndSlice39Level26Order197Distance82 - AndSlice39Level28Order204Distance81 - AndSlice39Level30Order211Distance80 - AndSlice39Level32Order218Distance79 - AndSlice39Level34Order225Distance78 - AndSlice39Level36Order232Distance77 - AndSlice39Level38Order239Distance76 - AndSlice39Level40Order246Distance75 - AndSlice39Level42Order253Distance74 - AndSlice39Level44Order260Distance73 - AndSlice39Level46Order267Distance72 - AndSlice39Level48Order274Distance71 - AndSlice39Level4Order122Distance92 - AndSlice39Level50Order279Distance69 - AndSlice39Level52Order286Distance69 - AndSlice39Level8Order134Distance91 Bit40
+25 - AndSlice38Level10Order146Distance94 - AndSlice38Level12Order153Distance93 - AndSlice38Level14Order160Distance92 - AndSlice38Level16Order167Distance91 - AndSlice38Level18Order174Distance90 - AndSlice38Level20Order181Distance89 - AndSlice38Level22Order188Distance88 - AndSlice38Level24Order195Distance87 - AndSlice38Level26Order202Distance86 - AndSlice38Level28Order209Distance85 - AndSlice38Level30Order216Distance84 - AndSlice38Level32Order223Distance83 - AndSlice38Level34Order230Distance82 - AndSlice38Level36Order237Distance81 - AndSlice38Level38Order244Distance80 - AndSlice38Level40Order251Distance79 - AndSlice38Level42Order258Distance78 - AndSlice38Level44Order265Distance77 - AndSlice38Level46Order272Distance76 - AndSlice38Level48Order279Distance75 - AndSlice38Level4Order127Distance96 - AndSlice38Level50Order286Distance74 - AndSlice38Level52Order291Distance72 - AndSlice38Level54Order298Distance72 - AndSlice38Level8Order139Distance95 Bit39
+26 - AndSlice37Level10Order151Distance98 - AndSlice37Level12Order158Distance97 - AndSlice37Level14Order165Distance96 - AndSlice37Level16Order172Distance95 - AndSlice37Level18Order179Distance94 - AndSlice37Level20Order186Distance93 - AndSlice37Level22Order193Distance92 - AndSlice37Level24Order200Distance91 - AndSlice37Level26Order207Distance90 - AndSlice37Level28Order214Distance89 - AndSlice37Level30Order221Distance88 - AndSlice37Level32Order228Distance87 - AndSlice37Level34Order235Distance86 - AndSlice37Level36Order242Distance85 - AndSlice37Level38Order249Distance84 - AndSlice37Level40Order256Distance83 - AndSlice37Level42Order263Distance82 - AndSlice37Level44Order270Distance81 - AndSlice37Level46Order277Distance80 - AndSlice37Level48Order284Distance79 - AndSlice37Level4Order132Distance100 - AndSlice37Level50Order291Distance78 - AndSlice37Level52Order298Distance77 - AndSlice37Level54Order303Distance75 - AndSlice37Level56Order310Distance75 - AndSlice37Level8Order144Distance99 Bit38
+27 - AndSlice36Level10Order156Distance102 - AndSlice36Level12Order163Distance101 - AndSlice36Level14Order170Distance100 - AndSlice36Level16Order177Distance99 - AndSlice36Level18Order184Distance98 - AndSlice36Level20Order191Distance97 - AndSlice36Level22Order198Distance96 - AndSlice36Level24Order205Distance95 - AndSlice36Level26Order212Distance94 - AndSlice36Level28Order219Distance93 - AndSlice36Level30Order226Distance92 - AndSlice36Level32Order233Distance91 - AndSlice36Level34Order240Distance90 - AndSlice36Level36Order247Distance89 - AndSlice36Level38Order254Distance88 - AndSlice36Level40Order261Distance87 - AndSlice36Level42Order268Distance86 - AndSlice36Level44Order275Distance85 - AndSlice36Level46Order282Distance84 - AndSlice36Level48Order289Distance83 - AndSlice36Level4Order137Distance104 - AndSlice36Level50Order296Distance82 - AndSlice36Level52Order303Distance81 - AndSlice36Level54Order310Distance80 - AndSlice36Level56Order315Distance78 - AndSlice36Level58Order322Distance78 - AndSlice36Level8Order149Distance103 Bit37
+28 - AndSlice35Level10Order161Distance106 - AndSlice35Level12Order168Distance105 - AndSlice35Level14Order175Distance104 - AndSlice35Level16Order182Distance103 - AndSlice35Level18Order189Distance102 - AndSlice35Level20Order196Distance101 - AndSlice35Level22Order203Distance100 - AndSlice35Level24Order210Distance99 - AndSlice35Level26Order217Distance98 - AndSlice35Level28Order224Distance97 - AndSlice35Level30Order231Distance96 - AndSlice35Level32Order238Distance95 - AndSlice35Level34Order245Distance94 - AndSlice35Level36Order252Distance93 - AndSlice35Level38Order259Distance92 - AndSlice35Level40Order266Distance91 - AndSlice35Level42Order273Distance90 - AndSlice35Level44Order280Distance89 - AndSlice35Level46Order287Distance88 - AndSlice35Level48Order294Distance87 - AndSlice35Level4Order142Distance108 - AndSlice35Level50Order301Distance86 - AndSlice35Level52Order308Distance85 - AndSlice35Level54Order315Distance84 - AndSlice35Level56Order322Distance83 - AndSlice35Level58Order327Distance81 - AndSlice35Level60Order334Distance81 - AndSlice35Level8Order154Distance107 Bit36
+29 - AndSlice34Level10Order166Distance110 - AndSlice34Level12Order173Distance109 - AndSlice34Level14Order180Distance108 - AndSlice34Level16Order187Distance107 - AndSlice34Level18Order194Distance106 - AndSlice34Level20Order201Distance105 - AndSlice34Level22Order208Distance104 - AndSlice34Level24Order215Distance103 - AndSlice34Level26Order222Distance102 - AndSlice34Level28Order229Distance101 - AndSlice34Level30Order236Distance100 - AndSlice34Level32Order243Distance99 - AndSlice34Level34Order250Distance98 - AndSlice34Level36Order257Distance97 - AndSlice34Level38Order264Distance96 - AndSlice34Level40Order271Distance95 - AndSlice34Level42Order278Distance94 - AndSlice34Level44Order285Distance93 - AndSlice34Level46Order292Distance92 - AndSlice34Level48Order299Distance91 - AndSlice34Level4Order147Distance112 - AndSlice34Level50Order306Distance90 - AndSlice34Level52Order313Distance89 - AndSlice34Level54Order320Distance88 - AndSlice34Level56Order327Distance87 - AndSlice34Level58Order334Distance86 - AndSlice34Level60Order339Distance84 - AndSlice34Level62Order346Distance84 - AndSlice34Level8Order159Distance111 Bit35
+30 - AndSlice33Level10Order171Distance114 - AndSlice33Level12Order178Distance113 - AndSlice33Level14Order185Distance112 - AndSlice33Level16Order192Distance111 - AndSlice33Level18Order199Distance110 - AndSlice33Level20Order206Distance109 - AndSlice33Level22Order213Distance108 - AndSlice33Level24Order220Distance107 - AndSlice33Level26Order227Distance106 - AndSlice33Level28Order234Distance105 - AndSlice33Level30Order241Distance104 - AndSlice33Level32Order248Distance103 - AndSlice33Level34Order255Distance102 - AndSlice33Level36Order262Distance101 - AndSlice33Level38Order269Distance100 - AndSlice33Level40Order276Distance99 - AndSlice33Level42Order283Distance98 - AndSlice33Level44Order290Distance97 - AndSlice33Level46Order297Distance96 - AndSlice33Level48Order304Distance95 - AndSlice33Level4Order152Distance116 - AndSlice33Level50Order311Distance94 - AndSlice33Level52Order318Distance93 - AndSlice33Level54Order325Distance92 - AndSlice33Level56Order332Distance91 - AndSlice33Level58Order339Distance90 - AndSlice33Level60Order346Distance89 - AndSlice33Level62Order351Distance87 - AndSlice33Level64Order358Distance87 - AndSlice33Level8Order164Distance115 Bit34
+30 - AndSlice32Level10Order176Distance117 - AndSlice32Level12Order183Distance116 - AndSlice32Level14Order190Distance115 - AndSlice32Level16Order197Distance114 - AndSlice32Level18Order204Distance113 - AndSlice32Level20Order211Distance112 - AndSlice32Level22Order218Distance111 - AndSlice32Level24Order225Distance110 - AndSlice32Level26Order232Distance109 - AndSlice32Level28Order239Distance108 + AndSlice32Level2Order121Distance120 - AndSlice32Level30Order246Distance107 - AndSlice32Level32Order253Distance106 - AndSlice32Level34Order260Distance105 - AndSlice32Level36Order267Distance104 - AndSlice32Level38Order274Distance103 - AndSlice32Level40Order281Distance102 - AndSlice32Level42Order288Distance101 - AndSlice32Level44Order295Distance100 - AndSlice32Level46Order302Distance99 - AndSlice32Level48Order309Distance98 - AndSlice32Level50Order316Distance97 - AndSlice32Level52Order323Distance96 - AndSlice32Level54Order330Distance95 - AndSlice32Level56Order337Distance94 - AndSlice32Level58Order344Distance93 - AndSlice32Level60Order351Distance92 - AndSlice32Level62Order356Distance90 - AndSlice32Level64Order363Distance90 - AndSlice32Level6Order162Distance119 - AndSlice32Level8Order169Distance118 Bit33
+30 - AndSlice31Level10Order176Distance121 - AndSlice31Level12Order183Distance120 - AndSlice31Level14Order190Distance119 - AndSlice31Level16Order197Distance118 - AndSlice31Level18Order204Distance117 - AndSlice31Level20Order211Distance116 - AndSlice31Level22Order218Distance115 - AndSlice31Level24Order225Distance114 - AndSlice31Level26Order232Distance113 - AndSlice31Level28Order239Distance112 - AndSlice31Level30Order246Distance111 - AndSlice31Level32Order253Distance110 - AndSlice31Level34Order260Distance109 - AndSlice31Level36Order267Distance108 - AndSlice31Level38Order274Distance107 - AndSlice31Level40Order281Distance106 - AndSlice31Level42Order288Distance105 - AndSlice31Level44Order295Distance104 - AndSlice31Level46Order302Distance103 - AndSlice31Level48Order309Distance102 - AndSlice31Level4Order157Distance123 - AndSlice31Level50Order316Distance101 - AndSlice31Level52Order323Distance100 - AndSlice31Level54Order330Distance99 - AndSlice31Level56Order337Distance98 - AndSlice31Level58Order344Distance97 - AndSlice31Level60Order351Distance96 - AndSlice31Level62Order358Distance95 - AndSlice31Level64Order363Distance93 + AndSlice31Level64Order364Distance93 - AndSlice31Level8Order169Distance122 Bit32
+29 - AndSlice30Level10Order171Distance124 - AndSlice30Level12Order178Distance123 - AndSlice30Level14Order185Distance122 - AndSlice30Level16Order192Distance121 - AndSlice30Level18Order199Distance120 - AndSlice30Level20Order206Distance119 - AndSlice30Level22Order213Distance118 - AndSlice30Level24Order220Distance117 - AndSlice30Level26Order227Distance116 - AndSlice30Level28Order234Distance115 - AndSlice30Level30Order241Distance114 - AndSlice30Level32Order248Distance113 - AndSlice30Level34Order255Distance112 - AndSlice30Level36Order262Distance111 - AndSlice30Level38Order269Distance110 - AndSlice30Level40Order276Distance109 - AndSlice30Level42Order283Distance108 - AndSlice30Level44Order290Distance107 - AndSlice30Level46Order297Distance106 - AndSlice30Level48Order304Distance105 - AndSlice30Level4Order152Distance126 - AndSlice30Level50Order311Distance104 - AndSlice30Level52Order318Distance103 - AndSlice30Level54Order325Distance102 - AndSlice30Level56Order332Distance101 - AndSlice30Level58Order339Distance100 - AndSlice30Level60Order346Distance98 + AndSlice30Level62Order351Distance94 - AndSlice30Level62Order352Distance96 - AndSlice30Level8Order164Distance125 Bit31
+28 - AndSlice29Level10Order166Distance127 - AndSlice29Level12Order173Distance126 - AndSlice29Level14Order180Distance125 - AndSlice29Level16Order187Distance124 - AndSlice29Level18Order194Distance123 - AndSlice29Level20Order201Distance122 - AndSlice29Level22Order208Distance121 - AndSlice29Level24Order215Distance120 - AndSlice29Level26Order222Distance119 - AndSlice29Level28Order229Distance118 - AndSlice29Level30Order236Distance117 - AndSlice29Level32Order243Distance116 - AndSlice29Level34Order250Distance115 - AndSlice29Level36Order257Distance114 - AndSlice29Level38Order264Distance113 - AndSlice29Level40Order271Distance112 - AndSlice29Level42Order278Distance111 - AndSlice29Level44Order285Distance110 - AndSlice29Level46Order292Distance109 - AndSlice29Level48Order299Distance108 - AndSlice29Level4Order147Distance129 - AndSlice29Level50Order306Distance107 - AndSlice29Level52Order313Distance106 - AndSlice29Level54Order320Distance105 - AndSlice29Level56Order327Distance103 - AndSlice29Level58Order334Distance101 + AndSlice29Level60Order339Distance95 - AndSlice29Level60Order340Distance99 - AndSlice29Level8Order159Distance128 Bit30
+27 - AndSlice28Level10Order161Distance130 - AndSlice28Level12Order168Distance129 - AndSlice28Level14Order175Distance128 - AndSlice28Level16Order182Distance127 - AndSlice28Level18Order189Distance126 - AndSlice28Level20Order196Distance125 - AndSlice28Level22Order203Distance124 - AndSlice28Level24Order210Distance123 - AndSlice28Level26Order217Distance122 - AndSlice28Level28Order224Distance121 - AndSlice28Level30Order231Distance120 - AndSlice28Level32Order238Distance119 - AndSlice28Level34Order245Distance118 - AndSlice28Level36Order252Distance117 - AndSlice28Level38Order259Distance116 - AndSlice28Level40Order266Distance115 - AndSlice28Level42Order273Distance114 - AndSlice28Level44Order280Distance113 - AndSlice28Level46Order287Distance112 - AndSlice28Level48Order294Distance111 - AndSlice28Level4Order142Distance132 - AndSlice28Level50Order301Distance110 - AndSlice28Level52Order308Distance108 - AndSlice28Level54Order315Distance106 - AndSlice28Level56Order322Distance104 + AndSlice28Level58Order327Distance96 - AndSlice28Level58Order328Distance102 - AndSlice28Level8Order154Distance131 Bit29
+26 - AndSlice27Level10Order156Distance133 - AndSlice27Level12Order163Distance132 - AndSlice27Level14Order170Distance131 - AndSlice27Level16Order177Distance130 - AndSlice27Level18Order184Distance129 - AndSlice27Level20Order191Distance128 - AndSlice27Level22Order198Distance127 - AndSlice27Level24Order205Distance126 - AndSlice27Level26Order212Distance125 - AndSlice27Level28Order219Distance124 - AndSlice27Level30Order226Distance123 - AndSlice27Level32Order233Distance122 - AndSlice27Level34Order240Distance121 - AndSlice27Level36Order247Distance120 - AndSlice27Level38Order254Distance119 - AndSlice27Level40Order261Distance118 - AndSlice27Level42Order268Distance117 - AndSlice27Level44Order275Distance116 - AndSlice27Level46Order282Distance115 - AndSlice27Level48Order289Distance113 - AndSlice27Level4Order137Distance135 - AndSlice27Level50Order296Distance111 - AndSlice27Level52Order303Distance109 - AndSlice27Level54Order310Distance107 + AndSlice27Level56Order315Distance97 - AndSlice27Level56Order316Distance105 - AndSlice27Level8Order149Distance134 Bit28
+25 - AndSlice26Level10Order151Distance136 - AndSlice26Level12Order158Distance135 - AndSlice26Level14Order165Distance134 - AndSlice26Level16Order172Distance133 - AndSlice26Level18Order179Distance132 - AndSlice26Level20Order186Distance131 - AndSlice26Level22Order193Distance130 - AndSlice26Level24Order200Distance129 - AndSlice26Level26Order207Distance128 - AndSlice26Level28Order214Distance127 - AndSlice26Level30Order221Distance126 - AndSlice26Level32Order228Distance125 - AndSlice26Level34Order235Distance124 - AndSlice26Level36Order242Distance123 - AndSlice26Level38Order249Distance122 - AndSlice26Level40Order256Distance121 - AndSlice26Level42Order263Distance120 - AndSlice26Level44Order270Distance118 - AndSlice26Level46Order277Distance116 - AndSlice26Level48Order284Distance114 - AndSlice26Level4Order132Distance138 - AndSlice26Level50Order291Distance112 - AndSlice26Level52Order298Distance110 + AndSlice26Level54Order303Distance98 - AndSlice26Level54Order304Distance108 - AndSlice26Level8Order144Distance137 Bit27
+24 - AndSlice25Level10Order146Distance139 - AndSlice25Level12Order153Distance138 - AndSlice25Level14Order160Distance137 - AndSlice25Level16Order167Distance136 - AndSlice25Level18Order174Distance135 - AndSlice25Level20Order181Distance134 - AndSlice25Level22Order188Distance133 - AndSlice25Level24Order195Distance132 - AndSlice25Level26Order202Distance131 - AndSlice25Level28Order209Distance130 - AndSlice25Level30Order216Distance129 - AndSlice25Level32Order223Distance128 - AndSlice25Level34Order230Distance127 - AndSlice25Level36Order237Distance126 - AndSlice25Level38Order244Distance125 - AndSlice25Level40Order251Distance123 - AndSlice25Level42Order258Distance121 - AndSlice25Level44Order265Distance119 - AndSlice25Level46Order272Distance117 - AndSlice25Level48Order279Distance115 - AndSlice25Level4Order127Distance141 - AndSlice25Level50Order286Distance113 + AndSlice25Level52Order291Distance99 - AndSlice25Level52Order292Distance111 - AndSlice25Level8Order139Distance140 Bit26
+23 - AndSlice24Level10Order141Distance142 - AndSlice24Level12Order148Distance141 - AndSlice24Level14Order155Distance140 - AndSlice24Level16Order162Distance139 - AndSlice24Level18Order169Distance138 - AndSlice24Level20Order176Distance137 - AndSlice24Level22Order183Distance136 - AndSlice24Level24Order190Distance135 - AndSlice24Level26Order197Distance134 - AndSlice24Level28Order204Distance133 - AndSlice24Level30Order211Distance132 - AndSlice24Level32Order218Distance131 - AndSlice24Level34Order225Distance130 - AndSlice24Level36Order232Distance128 - AndSlice24Level38Order239Distance126 - AndSlice24Level40Order246Distance124 - AndSlice24Level42Order253Distance122 - AndSlice24Level44Order260Distance120 - AndSlice24Level46Order267Distance118 - AndSlice24Level48Order274Distance116 - AndSlice24Level4Order122Distance144 + AndSlice24Level50Order279Distance100 - AndSlice24Level50Order280Distance114 - AndSlice24Level8Order134Distance143 Bit25
+22 - AndSlice23Level10Order136Distance145 - AndSlice23Level12Order143Distance144 - AndSlice23Level14Order150Distance143 - AndSlice23Level16Order157Distance142 - AndSlice23Level18Order164Distance141 - AndSlice23Level20Order171Distance140 - AndSlice23Level22Order178Distance139 - AndSlice23Level24Order185Distance138 - AndSlice23Level26Order192Distance137 - AndSlice23Level28Order199Distance136 - AndSlice23Level30Order206Distance135 - AndSlice23Level32Order213Distance133 - AndSlice23Level34Order220Distance131 - AndSlice23Level36Order227Distance129 - AndSlice23Level38Order234Distance127 - AndSlice23Level40Order241Distance125 - AndSlice23Level42Order248Distance123 - AndSlice23Level44Order255Distance121 - AndSlice23Level46Order262Distance119 + AndSlice23Level48Order267Distance101 - AndSlice23Level48Order268Distance117 - AndSlice23Level4Order117Distance147 - AndSlice23Level8Order129Distance146 Bit24
+21 - AndSlice22Level10Order131Distance148 - AndSlice22Level12Order138Distance147 - AndSlice22Level14Order145Distance146 - AndSlice22Level16Order152Distance145 - AndSlice22Level18Order159Distance144 - AndSlice22Level20Order166Distance143 - AndSlice22Level22Order173Distance142 - AndSlice22Level24Order180Distance141 - AndSlice22Level26Order187Distance140 - AndSlice22Level28Order194Distance138 - AndSlice22Level30Order201Distance136 - AndSlice22Level32Order208Distance134 - AndSlice22Level34Order215Distance132 - AndSlice22Level36Order222Distance130 - AndSlice22Level38Order229Distance128 - AndSlice22Level40Order236Distance126 - AndSlice22Level42Order243Distance124 - AndSlice22Level44Order250Distance122 + AndSlice22Level46Order255Distance102 - AndSlice22Level46Order256Distance120 - AndSlice22Level4Order112Distance150 - AndSlice22Level8Order124Distance149 Bit23
+20 - AndSlice21Level10Order126Distance151 - AndSlice21Level12Order133Distance150 - AndSlice21Level14Order140Distance149 - AndSlice21Level16Order147Distance148 - AndSlice21Level18Order154Distance147 - AndSlice21Level20Order161Distance146 - AndSlice21Level22Order168Distance145 - AndSlice21Level24Order175Distance143 - AndSlice21Level26Order182Distance141 - AndSlice21Level28Order189Distance139 - AndSlice21Level30Order196Distance137 - AndSlice21Level32Order203Distance135 - AndSlice21Level34Order210Distance133 - AndSlice21Level36Order217Distance131 - AndSlice21Level38Order224Distance129 - AndSlice21Level40Order231Distance127 - AndSlice21Level42Order238Distance125 + AndSlice21Level44Order243Distance103 - AndSlice21Level44Order244Distance123 - AndSlice21Level4Order107Distance153 - AndSlice21Level8Order119Distance152 Bit22
+19 - AndSlice20Level10Order121Distance154 - AndSlice20Level12Order128Distance153 - AndSlice20Level14Order135Distance152 - AndSlice20Level16Order142Distance151 - AndSlice20Level18Order149Distance150 - AndSlice20Level20Order156Distance148 - AndSlice20Level22Order163Distance146 - AndSlice20Level24Order170Distance144 - AndSlice20Level26Order177Distance142 - AndSlice20Level28Order184Distance140 - AndSlice20Level30Order191Distance138 - AndSlice20Level32Order198Distance136 - AndSlice20Level34Order205Distance134 - AndSlice20Level36Order212Distance132 - AndSlice20Level38Order219Distance130 - AndSlice20Level40Order226Distance128 + AndSlice20Level42Order231Distance104 - AndSlice20Level42Order232Distance126 - AndSlice20Level4Order102Distance156 - AndSlice20Level8Order114Distance155 Bit21
+18 - AndSlice19Level10Order116Distance157 - AndSlice19Level12Order123Distance156 - AndSlice19Level14Order130Distance155 - AndSlice19Level16Order137Distance153 - AndSlice19Level18Order144Distance151 - AndSlice19Level20Order151Distance149 - AndSlice19Level22Order158Distance147 - AndSlice19Level24Order165Distance145 - AndSlice19Level26Order172Distance143 - AndSlice19Level28Order179Distance141 - AndSlice19Level30Order186Distance139 - AndSlice19Level32Order193Distance137 - AndSlice19Level34Order200Distance135 - AndSlice19Level36Order207Distance133 - AndSlice19Level38Order214Distance131 + AndSlice19Level40Order219Distance105 - AndSlice19Level40Order220Distance129 - AndSlice19Level4Order97Distance159 - AndSlice19Level8Order109Distance158 Bit20
+17 - AndSlice18Level10Order111Distance160 - AndSlice18Level12Order118Distance158 - AndSlice18Level14Order125Distance156 - AndSlice18Level16Order132Distance154 - AndSlice18Level18Order139Distance152 - AndSlice18Level20Order146Distance150 - AndSlice18Level22Order153Distance148 - AndSlice18Level24Order160Distance146 - AndSlice18Level26Order167Distance144 - AndSlice18Level28Order174Distance142 - AndSlice18Level30Order181Distance140 - AndSlice18Level32Order188Distance138 - AndSlice18Level34Order195Distance136 - AndSlice18Level36Order202Distance134 + AndSlice18Level38Order207Distance106 - AndSlice18Level38Order208Distance132 - AndSlice18Level4Order92Distance162 - AndSlice18Level8Order104Distance161 Bit19
+16 - AndSlice17Level10Order106Distance161 - AndSlice17Level12Order113Distance159 - AndSlice17Level14Order120Distance157 - AndSlice17Level16Order127Distance155 - AndSlice17Level18Order134Distance153 - AndSlice17Level20Order141Distance151 - AndSlice17Level22Order148Distance149 - AndSlice17Level24Order155Distance147 - AndSlice17Level26Order162Distance145 - AndSlice17Level28Order169Distance143 - AndSlice17Level30Order176Distance141 - AndSlice17Level32Order183Distance139 - AndSlice17Level34Order190Distance137 + AndSlice17Level36Order195Distance107 - AndSlice17Level36Order196Distance135 - AndSlice17Level4Order87Distance165 - AndSlice17Level8Order99Distance163 Bit18
+15 - AndSlice16Level10Order101Distance162 - AndSlice16Level12Order108Distance160 - AndSlice16Level14Order115Distance158 - AndSlice16Level16Order122Distance156 - AndSlice16Level18Order129Distance154 - AndSlice16Level20Order136Distance152 - AndSlice16Level22Order143Distance150 - AndSlice16Level24Order150Distance148 - AndSlice16Level26Order157Distance146 - AndSlice16Level28Order164Distance144 - AndSlice16Level30Order171Distance142 - AndSlice16Level32Order178Distance140 + AndSlice16Level34Order183Distance108 - AndSlice16Level34Order184Distance138 - AndSlice16Level4Order82Distance166 - AndSlice16Level8Order94Distance164 Bit17
+14 - AndSlice15Level10Order96Distance163 - AndSlice15Level12Order103Distance161 - AndSlice15Level14Order110Distance159 - AndSlice15Level16Order117Distance157 - AndSlice15Level18Order124Distance155 - AndSlice15Level20Order131Distance153 - AndSlice15Level22Order138Distance151 - AndSlice15Level24Order145Distance149 - AndSlice15Level26Order152Distance147 - AndSlice15Level28Order159Distance145 - AndSlice15Level30Order166Distance143 + AndSlice15Level32Order171Distance109 - AndSlice15Level32Order172Distance141 - AndSlice15Level4Order77Distance167 - AndSlice15Level8Order89Distance165 Bit16
+13 - AndSlice14Level10Order91Distance164 - AndSlice14Level12Order98Distance162 - AndSlice14Level14Order105Distance160 - AndSlice14Level16Order112Distance158 - AndSlice14Level18Order119Distance156 - AndSlice14Level20Order126Distance154 - AndSlice14Level22Order133Distance152 - AndSlice14Level24Order140Distance150 - AndSlice14Level26Order147Distance148 - AndSlice14Level28Order154Distance146 + AndSlice14Level30Order159Distance110 - AndSlice14Level30Order160Distance144 - AndSlice14Level4Order72Distance168 - AndSlice14Level8Order84Distance166 Bit15
+12 - AndSlice13Level10Order86Distance165 - AndSlice13Level12Order93Distance163 - AndSlice13Level14Order100Distance161 - AndSlice13Level16Order107Distance159 - AndSlice13Level18Order114Distance157 - AndSlice13Level20Order121Distance155 - AndSlice13Level22Order128Distance153 - AndSlice13Level24Order135Distance151 - AndSlice13Level26Order142Distance149 + AndSlice13Level28Order147Distance111 - AndSlice13Level28Order148Distance147 - AndSlice13Level4Order67Distance169 - AndSlice13Level8Order79Distance167 Bit14
+11 - AndSlice12Level10Order81Distance166 - AndSlice12Level12Order88Distance164 - AndSlice12Level14Order95Distance162 - AndSlice12Level16Order102Distance160 - AndSlice12Level18Order109Distance158 - AndSlice12Level20Order116Distance156 - AndSlice12Level22Order123Distance154 - AndSlice12Level24Order130Distance152 + AndSlice12Level26Order135Distance112 - AndSlice12Level26Order136Distance150 - AndSlice12Level4Order62Distance170 - AndSlice12Level8Order74Distance168 Bit13
+10 - AndSlice11Level10Order76Distance167 - AndSlice11Level12Order83Distance165 - AndSlice11Level14Order90Distance163 - AndSlice11Level16Order97Distance161 - AndSlice11Level18Order104Distance159 - AndSlice11Level20Order111Distance157 - AndSlice11Level22Order118Distance155 + AndSlice11Level24Order123Distance113 - AndSlice11Level24Order124Distance153 - AndSlice11Level4Order57Distance171 - AndSlice11Level8Order69Distance169 Bit12
+9 - AndSlice10Level10Order71Distance168 - AndSlice10Level12Order78Distance166 - AndSlice10Level14Order85Distance164 - AndSlice10Level16Order92Distance162 - AndSlice10Level18Order99Distance160 - AndSlice10Level20Order106Distance158 + AndSlice10Level22Order111Distance114 - AndSlice10Level22Order112Distance156 - AndSlice10Level4Order52Distance172 - AndSlice10Level8Order64Distance170 Bit11
+8 - AndSlice9Level10Order66Distance169 - AndSlice9Level12Order73Distance167 - AndSlice9Level14Order80Distance165 - AndSlice9Level16Order87Distance163 - AndSlice9Level18Order94Distance161 - AndSlice9Level20Order100Distance159 + AndSlice9Level20Order99Distance115 - AndSlice9Level4Order47Distance173 - AndSlice9Level8Order59Distance171 Bit10
+7 - AndSlice8Level10Order61Distance170 - AndSlice8Level12Order68Distance168 - AndSlice8Level14Order75Distance166 - AndSlice8Level16Order82Distance164 + AndSlice8Level18Order87Distance116 - AndSlice8Level18Order88Distance162 - AndSlice8Level4Order42Distance174 - AndSlice8Level8Order54Distance172 Bit9
+6 - AndSlice7Level10Order56Distance171 - AndSlice7Level12Order63Distance169 - AndSlice7Level14Order70Distance167 + AndSlice7Level16Order75Distance117 - AndSlice7Level16Order76Distance165 - AndSlice7Level4Order37Distance175 - AndSlice7Level8Order49Distance173 Bit8
+5 - AndSlice6Level10Order51Distance172 - AndSlice6Level12Order58Distance170 + AndSlice6Level14Order63Distance118 - AndSlice6Level14Order64Distance168 - AndSlice6Level4Order32Distance176 - AndSlice6Level8Order44Distance174 Bit7
+4 - AndSlice5Level10Order46Distance173 + AndSlice5Level12Order51Distance119 - AndSlice5Level12Order52Distance171 - AndSlice5Level4Order27Distance177 - AndSlice5Level8Order39Distance175 Bit6
+3 + AndSlice4Level10Order39Distance120 - AndSlice4Level10Order40Distance174 - AndSlice4Level4Order22Distance178 - AndSlice4Level8Order34Distance176 Bit5
+2 - AndSlice3Level4Order17Distance179 + AndSlice3Level8Order27Distance121 - AndSlice3Level8Order28Distance177 Bit4
+1 - AndSlice2Level4Order12Distance180 + AndSlice2Level6Order16Distance122 Bit3
+AndSlice1Level2Order4Distance123 Bit2
+0 Bit1
+0 Bit0
+{14.952693, Null^64}
+372.768
+[launsh.sh] end Mit Jul 12 12:05:24 CEST 2017

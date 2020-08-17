@@ -1,0 +1,22 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/btor/btor32.aig
+[runlim] argv[2]:		--singular
+[runlim] argv[3]:		--no-vanishing-constraints
+[runlim] start:			Thu Jul 13 08:22:28 2017
+[runlim] main pid:		2824
+[runlim] sample:		9.9 time, 10.3 real, 709.0 MB
+[time] 18.06 usertime in seconds
+[time] 18.63 wallclocktime in seconds
+[time] 1750960 maximum resident set size (in KB)
+[runlim] end:			Thu Jul 13 08:22:46 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		187
+[runlim] real:			19.00 seconds
+[runlim] time:			18.62 seconds
+[runlim] space:			1695.4 MB
+[runlim] samples:		187

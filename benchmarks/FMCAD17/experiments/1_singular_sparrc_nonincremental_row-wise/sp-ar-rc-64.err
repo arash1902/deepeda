@@ -1,0 +1,60 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/aoki/sp-ar-rc-64.aig
+[runlim] argv[2]:		--singular
+[runlim] argv[3]:		--non-incremental
+[runlim] argv[4]:		--row-wise
+[runlim] start:			Wed Aug  2 17:07:37 2017
+[runlim] main pid:		4219
+[runlim] sample:		9.2 time, 10.1 real, 1841.4 MB
+[runlim] sample:		19.1 time, 20.1 real, 5301.8 MB
+[runlim] sample:		29.0 time, 30.1 real, 5886.6 MB
+[runlim] sample:		39.0 time, 40.1 real, 6336.7 MB
+[runlim] sample:		49.0 time, 50.1 real, 6704.9 MB
+[runlim] sample:		59.0 time, 60.1 real, 7134.1 MB
+[runlim] sample:		69.0 time, 70.1 real, 7471.4 MB
+[runlim] sample:		78.9 time, 80.1 real, 7680.8 MB
+[runlim] sample:		88.9 time, 90.1 real, 8075.0 MB
+[runlim] sample:		98.9 time, 100.1 real, 8229.1 MB
+[runlim] sample:		108.9 time, 110.1 real, 8625.4 MB
+[runlim] sample:		118.9 time, 120.1 real, 8869.6 MB
+[runlim] sample:		128.9 time, 130.1 real, 9022.4 MB
+[runlim] sample:		138.9 time, 140.1 real, 9242.8 MB
+[runlim] sample:		148.9 time, 150.1 real, 9475.2 MB
+[runlim] sample:		158.9 time, 160.1 real, 9697.8 MB
+[runlim] sample:		168.9 time, 170.1 real, 9971.8 MB
+[runlim] sample:		178.9 time, 180.1 real, 10222.3 MB
+[runlim] sample:		188.9 time, 190.1 real, 10360.3 MB
+[runlim] sample:		198.9 time, 200.1 real, 10429.2 MB
+[runlim] sample:		208.9 time, 210.1 real, 10683.8 MB
+[runlim] sample:		218.9 time, 220.1 real, 10879.7 MB
+[runlim] sample:		228.9 time, 230.1 real, 11165.8 MB
+[runlim] sample:		238.9 time, 240.1 real, 11182.9 MB
+[runlim] sample:		248.9 time, 250.1 real, 11504.4 MB
+[runlim] sample:		258.9 time, 260.1 real, 11637.5 MB
+[runlim] sample:		268.9 time, 270.1 real, 11695.6 MB
+[runlim] sample:		278.9 time, 280.1 real, 11909.6 MB
+[runlim] sample:		288.9 time, 290.1 real, 11999.6 MB
+[runlim] sample:		298.9 time, 300.1 real, 12213.6 MB
+[runlim] sample:		308.9 time, 310.1 real, 12356.5 MB
+[runlim] sample:		318.9 time, 320.1 real, 12549.7 MB
+[runlim] sample:		328.9 time, 330.1 real, 12803.2 MB
+[runlim] sample:		338.9 time, 340.1 real, 12921.4 MB
+[runlim] sample:		348.9 time, 350.1 real, 13027.2 MB
+[runlim] sample:		358.9 time, 360.1 real, 13105.6 MB
+[runlim] sample:		368.9 time, 370.1 real, 13482.5 MB
+[runlim] sample:		378.9 time, 380.1 real, 13521.4 MB
+[runlim] sample:		388.9 time, 390.1 real, 13480.5 MB
+[runlim] sample:		398.9 time, 400.1 real, 13758.9 MB
+[runlim] sample:		408.9 time, 410.1 real, 13770.6 MB
+[runlim] end:			Wed Aug  2 17:14:30 2017
+[runlim] status:		out of memory
+[runlim] result:		3
+[runlim] children:		4137
+[runlim] real:			413.91 seconds
+[runlim] time:			412.73 seconds
+[runlim] space:			14054.8 MB
+[runlim] samples:		4138

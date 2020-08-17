@@ -1,0 +1,107 @@
+[launsh.sh] start Mit Jul 12 13:29:02 CEST 2017
+[aigmultopoly] reading '../../benchmarks/abc/abc4-resyn3-mapped-no-complex.aig'
+[aigmultopoly] MILOA 110 8 0 8 102
+[aigmultopoly] not backannotating literals (no '-b' nor '--backannotate' option)
+[aigmultopoly] producing Mathematica output
+[aigmultopoly] assuming ordering as in the AIKO benchmarks
+[aigmultopoly] (a[0], a[1], ..., a[3]) = (input[0], input[1], ..., input[3])
+[aigmultopoly] (b[0], b[1], ..., b[3]) = (input[4], input[5], ..., input[7])
+[aigmultopoly] (s[0], ..., s[7]) = (output[0], ..., output[7])
+[aigmultopoly] found all 1 partial products for slice 0
+[aigmultopoly] found all 2 partial products for slice 1
+[aigmultopoly] found all 3 partial products for slice 2
+[aigmultopoly] found all 4 partial products for slice 3
+[aigmultopoly] found all 3 partial products for slice 4
+[aigmultopoly] found all 2 partial products for slice 5
+[aigmultopoly] found all 1 partial products for slice 6
+[aigmultopoly] found all 0 partial products for slice 7
+[aigmultopoly] found all 16 partial products in total
+[aigmultopoly] found 1 new non-input variables in COI of slice 0
+[aigmultopoly] found 3 new non-input variables in COI of slice 1
+[aigmultopoly] found 7 new non-input variables in COI of slice 2
+[aigmultopoly] found 13 new non-input variables in COI of slice 3
+[aigmultopoly] found 15 new non-input variables in COI of slice 4
+[aigmultopoly] found 14 new non-input variables in COI of slice 5
+[aigmultopoly] found 9 new non-input variables in COI of slice 6
+[aigmultopoly] found 3 new non-input variables in COI of slice 7
+[aigmultopoly] found 65 non-input literals in total
+[aigmultopoly] found 65 AND gates in COI of which 21 are XORs 32%
+[aigmultopoly] where 26 AND gates occur only once 40%
+[aigmultopoly] ordered columnwise backward 1 AND gates in slice 0
+[aigmultopoly] ordered columnwise backward 3 AND gates in slice 1
+[aigmultopoly] ordered columnwise backward 6 AND gates in slice 2
+[aigmultopoly] ordered columnwise backward 9 AND gates in slice 3
+[aigmultopoly] ordered columnwise backward 8 AND gates in slice 4
+[aigmultopoly] ordered columnwise backward 6 AND gates in slice 5
+[aigmultopoly] ordered columnwise backward 3 AND gates in slice 6
+[aigmultopoly] ordered columnwise backward 0 AND gates in slice 7
+[aigmultopoly] ordered 36 gates in total
+[aigmultopoly] merged 29 gates in total
+[aigmultopoly] promoted 0 gates in total
+[aigmultopoly] maximum level 1 in slice 0
+[aigmultopoly] maximum level 2 in slice 1
+[aigmultopoly] maximum level 4 in slice 2
+[aigmultopoly] maximum level 6 in slice 3
+[aigmultopoly] maximum level 7 in slice 4
+[aigmultopoly] maximum level 6 in slice 5
+[aigmultopoly] maximum level 4 in slice 6
+[aigmultopoly] maximum level 0 in slice 7
+[aigmultopoly] distance updated of 215 in round 6 from 0 to 2
+[aigmultopoly] distance updated of 193 in round 5 from 0 to 4
+[aigmultopoly] distance updated of 147 in round 4 from 0 to 6
+[aigmultopoly] distance updated of 99 in round 3 from 0 to 7
+[aigmultopoly] distance updated of 55 in round 2 from 0 to 11
+[aigmultopoly] distance updated of 29 in round 1 from 0 to 15
+[aigmultopoly] distance updated of 18 in round 0 from 0 to 16
+[aigmultopoly] maximum output distance 16
+[aigmultopoly] found 1 literals with output distance 0
+[aigmultopoly] found 3 literals with output distance 1
+[aigmultopoly] found 2 literals with output distance 2
+[aigmultopoly] found 5 literals with output distance 3
+[aigmultopoly] found 4 literals with output distance 4
+[aigmultopoly] found 5 literals with output distance 5
+[aigmultopoly] found 5 literals with output distance 6
+[aigmultopoly] found 8 literals with output distance 7
+[aigmultopoly] found 4 literals with output distance 8
+[aigmultopoly] found 4 literals with output distance 9
+[aigmultopoly] found 5 literals with output distance 10
+[aigmultopoly] found 6 literals with output distance 11
+[aigmultopoly] found 3 literals with output distance 12
+[aigmultopoly] found 4 literals with output distance 13
+[aigmultopoly] found 4 literals with output distance 14
+[aigmultopoly] found 5 literals with output distance 15
+[aigmultopoly] found 5 literals with output distance 16
+[aigmultopoly] named 73 polynomials in total
+[aigmultopoly] found 0 carries in slice 0
+[aigmultopoly] found 1 carries in slice 1
+[aigmultopoly] found 2 carries in slice 2
+[aigmultopoly] found 3 carries in slice 3
+[aigmultopoly] found 3 carries in slice 4
+[aigmultopoly] found 2 carries in slice 5
+[aigmultopoly] found 1 carries in slice 6
+[aigmultopoly] found 0 carries in slice 7
+[aigmultopoly] found 0 vanishing constraints in slice 0
+[aigmultopoly] found 0 vanishing constraints in slice 1
+[aigmultopoly] found 1 vanishing constraints in slice 2
+[aigmultopoly] found 1 vanishing constraints in slice 3
+[aigmultopoly] found 0 vanishing constraints in slice 4
+[aigmultopoly] found 2 vanishing constraints in slice 5
+[aigmultopoly] found 0 vanishing constraints in slice 6
+[aigmultopoly] found 0 vanishing constraints in slice 7
+[aigmultopoly] found 4 vanishing XOR constraints in total
+[aigmultopoly] printed 73 polynomials in total
+[aigmultopoly] using column wise incremental word-level reasoning
+[aigmultopoly] 
+[aigmultopoly] maximum resident set size:          0.77 MB
+[aigmultopoly] used process time:                  0.00 seconds
+1 - AndOcc1Slice6Level4Order5Distance0 Bit7
+2 - AndSlice5Level4Order7Distance3 - AndSlice5Level6Order11Distance2 Bit6
+2 + AndSlice4Level2Order4Distance7 - AndSlice4Level5Order11Distance6 - AndSlice4Level7Order15Distance4 Bit5
+2 - AndSlice3Level4Order9Distance10 - AndSlice3Level6Order14Distance8 + AndSlice3Level6Order15Distance6 Bit4
+1 - AndSlice2Level4Order8Distance12 + AndSlice2Level4Order9Distance10 Bit3
+AndSlice1Level2Order3Distance14 Bit2
+0 Bit1
+0 Bit0
+{0.038437, Null^8}
+0.28
+[launsh.sh] end Mit Jul 12 13:29:02 CEST 2017

@@ -1,0 +1,62 @@
+[launsh.sh] start Mit Jul 12 09:01:56 CEST 2017
+[aigmultopoly] reading '../../benchmarks/btor/btor2.aig'
+[aigmultopoly] MILOA 14 4 0 4 10
+[aigmultopoly] not backannotating literals (no '-b' nor '--backannotate' option)
+[aigmultopoly] producing Singular output
+[aigmultopoly] assuming ordering as in BTOR generated benchmarks
+[aigmultopoly] (a[0], a[1]) = (input[0], input[2])
+[aigmultopoly] (b[0], b[1]) = (input[1], input[3])
+[aigmultopoly] (s[0], ..., s[3]) = (output[0], ..., output[3])
+[aigmultopoly] found all 1 partial products for slice 0
+[aigmultopoly] found all 2 partial products for slice 1
+[aigmultopoly] found all 1 partial products for slice 2
+[aigmultopoly] found all 0 partial products for slice 3
+[aigmultopoly] found all 4 partial products in total
+[aigmultopoly] found 1 new non-input variables in COI of slice 0
+[aigmultopoly] found 3 new non-input variables in COI of slice 1
+[aigmultopoly] found 3 new non-input variables in COI of slice 2
+[aigmultopoly] found 1 new non-input variables in COI of slice 3
+[aigmultopoly] found 8 non-input literals in total
+[aigmultopoly] found 8 AND gates in COI of which 2 are XORs 25%
+[aigmultopoly] where 4 AND gates occur only once 50%
+[aigmultopoly] ordered columnwise backward 1 AND gates in slice 0
+[aigmultopoly] ordered columnwise backward 3 AND gates in slice 1
+[aigmultopoly] ordered columnwise backward 2 AND gates in slice 2
+[aigmultopoly] ordered columnwise backward 0 AND gates in slice 3
+[aigmultopoly] ordered 6 gates in total
+[aigmultopoly] merged 2 gates in total
+[aigmultopoly] promoted 0 gates in total
+[aigmultopoly] maximum level 1 in slice 0
+[aigmultopoly] maximum level 2 in slice 1
+[aigmultopoly] maximum level 2 in slice 2
+[aigmultopoly] maximum level 0 in slice 3
+[aigmultopoly] distance updated of 20 in round 1 from 0 to 2
+[aigmultopoly] distance updated of 10 in round 0 from 0 to 3
+[aigmultopoly] maximum output distance 3
+[aigmultopoly] found 2 literals with output distance 0
+[aigmultopoly] found 3 literals with output distance 1
+[aigmultopoly] found 3 literals with output distance 2
+[aigmultopoly] found 4 literals with output distance 3
+[aigmultopoly] named 12 polynomials in total
+[aigmultopoly] found 0 carries in slice 0
+[aigmultopoly] found 1 carries in slice 1
+[aigmultopoly] found 1 carries in slice 2
+[aigmultopoly] found 0 carries in slice 3
+[aigmultopoly] found 0 vanishing constraints in slice 0
+[aigmultopoly] found 0 vanishing constraints in slice 1
+[aigmultopoly] found 0 vanishing constraints in slice 2
+[aigmultopoly] found 0 vanishing constraints in slice 3
+[aigmultopoly] found 0 vanishing XOR constraints in total
+[aigmultopoly] printed 12 polynomials in total
+[aigmultopoly] using total non-incremental word-level spec
+[aigmultopoly] 
+[aigmultopoly] maximum resident set size:          0.82 MB
+[aigmultopoly] used process time:                  0.00 seconds
+                     SINGULAR                                 /  Development
+ A Computer Algebra System for Polynomial Computations       /   version 4.1.0
+                                                           0<
+ by: W. Decker, G.-M. Greuel, G. Pfister, H. Schoenemann     \   Nov 2016
+FB Mathematik der Universitaet, D-67653 Kaiserslautern        \
+0
+Auf Wiedersehen.
+[launsh.sh] end Mit Jul 12 09:01:57 CEST 2017

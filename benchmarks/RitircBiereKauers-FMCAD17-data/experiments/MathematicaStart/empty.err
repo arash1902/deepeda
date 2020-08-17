@@ -1,0 +1,17 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3600 seconds
+[runlim] space limit:		7000 MB
+[runlim] argv[0]:		/usr/local/bin/wolfram
+[runlim] argv[1]:		-script
+[runlim] argv[2]:		empty.wl
+[runlim] start:			Thu Jul 13 12:50:44 2017
+[runlim] main pid:		4490
+[runlim] end:			Thu Jul 13 12:50:44 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.77 seconds
+[runlim] time:			0.23 seconds
+[runlim] space:			81.1 MB
+[runlim] samples:		3

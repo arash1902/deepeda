@@ -1,0 +1,22 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-mathematica.sh
+[runlim] argv[1]:		../../benchmarks/abc/abc32.aig
+[runlim] start:			Wed Jul 12 14:21:47 2017
+[runlim] main pid:		5378
+[runlim] sample:		9.8 time, 10.1 real, 93.9 MB
+[runlim] sample:		19.9 time, 20.1 real, 94.7 MB
+[runlim] sample:		29.9 time, 30.1 real, 96.5 MB
+[time] 34.51 usertime in seconds
+[time] 34.62 wallclocktime in seconds
+[time] 102196 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 14:22:21 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		346
+[runlim] real:			34.80 seconds
+[runlim] time:			34.46 seconds
+[runlim] space:			100.0 MB
+[runlim] samples:		346

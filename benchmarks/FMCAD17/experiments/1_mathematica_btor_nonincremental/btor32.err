@@ -1,0 +1,73 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-mathematica.sh
+[runlim] argv[1]:		../../benchmarks/btor/btor32.aig
+[runlim] argv[2]:		--non-incremental
+[runlim] start:			Wed Jul 12 10:13:44 2017
+[runlim] main pid:		3643
+[runlim] sample:		9.9 time, 10.2 real, 94.8 MB
+[runlim] sample:		19.9 time, 20.2 real, 95.8 MB
+[runlim] sample:		29.9 time, 30.2 real, 98.3 MB
+[runlim] sample:		39.9 time, 40.2 real, 1542.8 MB
+[runlim] sample:		49.9 time, 50.2 real, 1542.8 MB
+[runlim] sample:		59.9 time, 60.2 real, 1542.8 MB
+[runlim] sample:		69.9 time, 70.2 real, 1542.8 MB
+[runlim] sample:		79.9 time, 80.2 real, 1542.8 MB
+[runlim] sample:		89.9 time, 90.2 real, 1542.8 MB
+[runlim] sample:		99.9 time, 100.2 real, 1542.8 MB
+[runlim] sample:		109.9 time, 110.2 real, 1542.8 MB
+[runlim] sample:		119.9 time, 120.2 real, 1542.8 MB
+[runlim] sample:		129.9 time, 130.2 real, 1542.8 MB
+[runlim] sample:		139.9 time, 140.2 real, 1542.8 MB
+[runlim] sample:		149.8 time, 150.2 real, 1542.8 MB
+[runlim] sample:		159.8 time, 160.2 real, 1542.8 MB
+[runlim] sample:		169.8 time, 170.2 real, 1542.8 MB
+[runlim] sample:		179.8 time, 180.2 real, 1542.8 MB
+[runlim] sample:		189.8 time, 190.2 real, 1542.8 MB
+[runlim] sample:		199.8 time, 200.2 real, 1542.8 MB
+[runlim] sample:		209.8 time, 210.2 real, 1542.8 MB
+[runlim] sample:		219.8 time, 220.2 real, 1542.8 MB
+[runlim] sample:		229.8 time, 230.2 real, 1542.8 MB
+[runlim] sample:		239.8 time, 240.2 real, 1542.8 MB
+[runlim] sample:		249.8 time, 250.2 real, 1542.8 MB
+[runlim] sample:		259.9 time, 260.2 real, 1542.8 MB
+[runlim] sample:		269.9 time, 270.2 real, 1542.8 MB
+[runlim] sample:		279.9 time, 280.2 real, 1542.8 MB
+[runlim] sample:		289.9 time, 290.2 real, 1542.8 MB
+[runlim] sample:		299.9 time, 300.2 real, 1542.8 MB
+[runlim] sample:		309.9 time, 310.2 real, 1542.8 MB
+[runlim] sample:		319.9 time, 320.2 real, 1542.8 MB
+[runlim] sample:		329.9 time, 330.2 real, 1542.8 MB
+[runlim] sample:		339.9 time, 340.2 real, 1542.8 MB
+[runlim] sample:		349.9 time, 350.2 real, 1542.8 MB
+[runlim] sample:		359.9 time, 360.2 real, 1542.8 MB
+[runlim] sample:		369.9 time, 370.2 real, 1542.8 MB
+[runlim] sample:		379.9 time, 380.2 real, 1542.9 MB
+[runlim] sample:		389.9 time, 390.2 real, 1542.9 MB
+[runlim] sample:		399.9 time, 400.2 real, 1542.9 MB
+[runlim] sample:		409.9 time, 410.2 real, 1542.9 MB
+[runlim] sample:		419.8 time, 420.2 real, 1542.9 MB
+[runlim] sample:		429.9 time, 430.2 real, 1542.9 MB
+[runlim] sample:		439.9 time, 440.2 real, 1542.9 MB
+[runlim] sample:		449.9 time, 450.2 real, 1542.9 MB
+[runlim] sample:		459.8 time, 460.2 real, 1542.9 MB
+[runlim] sample:		469.8 time, 470.2 real, 1542.9 MB
+[runlim] sample:		479.8 time, 480.2 real, 1542.9 MB
+[runlim] sample:		489.9 time, 490.2 real, 1542.9 MB
+[runlim] sample:		499.9 time, 500.2 real, 1542.9 MB
+[runlim] sample:		509.8 time, 510.2 real, 1542.9 MB
+[runlim] sample:		519.9 time, 520.2 real, 1542.9 MB
+[runlim] sample:		529.9 time, 530.2 real, 1542.9 MB
+[time] 530.15 usertime in seconds
+[time] 530.66 wallclocktime in seconds
+[time] 1579204 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 10:22:34 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		5307
+[runlim] real:			530.89 seconds
+[runlim] time:			530.54 seconds
+[runlim] space:			1542.9 MB
+[runlim] samples:		5307

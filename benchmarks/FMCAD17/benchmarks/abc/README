@@ -1,0 +1,18 @@
+These benchmarks are generated with ABC and are essentially a superset of those
+those used in the following article (extended version of a DAC'15 paper)
+
+  Cunxi Yu, Walter Brown, Duo Liu, André Rossi, Maciej J. Ciesielski:
+  Formal Verification of Arithmetic Circuits by Function Extraction.
+  IEEE Trans. on CAD of Integrated Circuits and Systems 35(12): 2131-2142 (2016).
+
+Except that we provide AIGER versions and more bit-widths.  The process for
+the different versions of synthesis (none,resyn,resyn3) as well as using
+different libraries for technology mapping should be the same (complex,no-complex)
+and was kindly explained by Maciej through EMail.  They also started with a
+Verilog version which however seems to produce essentially the same AIG
+at the end as the internal ABC command 'gen -m ...' we used.  The original version
+(without suffix) actually turns out to have the same structure as the multipliers
+synthesized from Boolector in the 'btor' subdirectory.
+
+Armin Biere
+Mit Mai 10 11:39:17 CEST 2017

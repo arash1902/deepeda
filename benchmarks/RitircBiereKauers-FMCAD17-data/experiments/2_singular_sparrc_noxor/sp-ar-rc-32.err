@@ -1,0 +1,47 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/aoki/sp-ar-rc-32.aig
+[runlim] argv[2]:		--singular
+[runlim] argv[3]:		--no-xor-rewriting
+[runlim] start:			Wed Jul 12 15:46:20 2017
+[runlim] main pid:		2401
+[runlim] sample:		9.9 time, 10.0 real, 1071.0 MB
+[runlim] sample:		19.9 time, 20.0 real, 1299.6 MB
+[runlim] sample:		29.9 time, 30.0 real, 1475.7 MB
+[runlim] sample:		39.9 time, 40.0 real, 1627.3 MB
+[runlim] sample:		49.9 time, 50.0 real, 1731.2 MB
+[runlim] sample:		59.9 time, 60.0 real, 1883.8 MB
+[runlim] sample:		69.9 time, 70.0 real, 1982.5 MB
+[runlim] sample:		79.9 time, 80.0 real, 2076.1 MB
+[runlim] sample:		89.9 time, 90.0 real, 2170.3 MB
+[runlim] sample:		99.9 time, 100.0 real, 2267.4 MB
+[runlim] sample:		109.9 time, 110.0 real, 2363.0 MB
+[runlim] sample:		119.9 time, 120.0 real, 2456.6 MB
+[runlim] sample:		129.9 time, 130.0 real, 2527.7 MB
+[runlim] sample:		139.9 time, 140.0 real, 2605.2 MB
+[runlim] sample:		149.9 time, 150.0 real, 2688.4 MB
+[runlim] sample:		159.9 time, 160.0 real, 2802.1 MB
+[runlim] sample:		169.9 time, 170.0 real, 2875.9 MB
+[runlim] sample:		179.9 time, 180.0 real, 2958.8 MB
+[runlim] sample:		189.9 time, 190.0 real, 3034.4 MB
+[runlim] sample:		199.9 time, 200.0 real, 3147.9 MB
+[runlim] sample:		209.9 time, 210.0 real, 3231.7 MB
+[runlim] sample:		219.9 time, 220.0 real, 3347.2 MB
+[runlim] sample:		229.9 time, 230.0 real, 3471.8 MB
+[runlim] sample:		239.9 time, 240.0 real, 3614.7 MB
+[runlim] sample:		249.9 time, 250.0 real, 4410.7 MB
+[runlim] sample:		259.9 time, 260.0 real, 6091.3 MB
+[time] 259.55 usertime in seconds
+[time] 265.56 wallclocktime in seconds
+[time] 7103532 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 15:50:46 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		2656
+[runlim] real:			265.69 seconds
+[runlim] time:			265.47 seconds
+[runlim] space:			6934.4 MB
+[runlim] samples:		2656

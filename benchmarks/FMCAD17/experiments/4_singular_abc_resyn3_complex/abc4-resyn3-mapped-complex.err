@@ -1,0 +1,20 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/abc/abc4-resyn3-mapped-complex.aig
+[runlim] argv[2]:		--singular
+[runlim] start:			Wed Jul 12 11:35:53 2017
+[runlim] main pid:		2392
+[time] 0.00 usertime in seconds
+[time] 0.00 wallclocktime in seconds
+[time] 9184 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 11:35:53 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			0.56 seconds
+[runlim] time:			0.00 seconds
+[runlim] space:			0.0 MB
+[runlim] samples:		0

@@ -1,0 +1,33 @@
+These multipliers were generated and obtained from the service provided at:
+
+http://www.aoki.ecei.tohoku.ac.jp/arith/
+
+Two of the larger 128 input (and 256 output) benchmarks were kindly
+directly provided by Naofumi Homma via EMail.
+
+If you use these benchmarks, please make sure to use the following
+reference in any published material or when distributing them.
+
+  Naofumi Homma, Yuki Watanabe, Takafumi Aoki, Tatsuo Higuchi: Formal Design
+  of Arithmetic Circuits Based on Arithmetic Description Language. IEICE
+  Transactions 89-A(12): 3500-3509 (2006).
+
+Further, these AIGs were synthesized to AIGER circuits with YoSyS/ABC from
+their Verilog specification as follows
+
+  yosys -p "hierarchy -auto-top -check" -p flatten -p techmap -p stat -o mult.blif mult.v
+
+which was the same setting as used in the following paper
+
+  Amr A. R. Sayed-Ahmed, Daniel Große, Ulrich Kühne, Mathias Soeken, Rolf
+  Drechsler: Formal verification of integer multipliers by combining Gröbner
+  basis with logic reduction. DATE 2016: 1048-1053.
+
+The YoSyS command above was explained by Mathias Soeken via EMail.  Thus
+also make sure that you include in any derived work a disclaimer how these
+benchmarks were derived and that in particularly the original authors of the
+generator for the verilog benchmarks do not provide any kind of warranty for
+the correctness of the derived AIGER files.
+
+Armin Biere
+Mit Mai 10 11:32:31 CEST 2017

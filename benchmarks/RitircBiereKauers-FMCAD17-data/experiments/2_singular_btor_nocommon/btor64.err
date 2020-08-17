@@ -1,0 +1,27 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/btor/btor64.aig
+[runlim] argv[2]:		--singular
+[runlim] argv[3]:		--no-common-rewriting
+[runlim] start:			Thu Jul 13 08:02:51 2017
+[runlim] main pid:		8315
+[runlim] sample:		9.6 time, 10.4 real, 2948.0 MB
+[runlim] sample:		19.6 time, 20.4 real, 5546.3 MB
+[runlim] sample:		28.6 time, 30.4 real, 12350.4 MB
+[runlim] sample:		30.4 time, 43.7 real, 13074.6 MB
+[runlim] sample:		31.3 time, 53.7 real, 13369.3 MB
+[runlim] sample:		36.8 time, 63.7 real, 13867.6 MB
+[runlim] end:			Thu Jul 13 08:03:56 2017
+[runlim] status:		out of memory
+[runlim] result:		3
+[runlim] children:		620
+[runlim] real:			65.69 seconds
+[runlim] time:			38.06 seconds
+[runlim] space:			14008.1 MB
+[runlim] samples:		620
+   ? error occurred in or before _ line 1: `poly Car(101) = reduce (s(101) + 2 * Car(102`
+   ? expected poly-expression. type 'help poly;'
+   ? last reserved name was `reduce`

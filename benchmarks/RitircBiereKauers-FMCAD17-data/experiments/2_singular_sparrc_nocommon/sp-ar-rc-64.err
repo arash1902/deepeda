@@ -1,0 +1,21 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/aoki/sp-ar-rc-64.aig
+[runlim] argv[2]:		--singular
+[runlim] argv[3]:		--no-common-rewriting
+[runlim] start:			Wed Aug  2 15:04:20 2017
+[runlim] main pid:		3765
+[runlim] sample:		9.4 time, 10.1 real, 1945.6 MB
+[runlim] sample:		19.4 time, 20.1 real, 6106.3 MB
+[runlim] sample:		29.4 time, 30.1 real, 9866.6 MB
+[runlim] end:			Wed Aug  2 15:04:55 2017
+[runlim] status:		out of memory
+[runlim] result:		3
+[runlim] children:		350
+[runlim] real:			35.11 seconds
+[runlim] time:			34.36 seconds
+[runlim] space:			14136.6 MB
+[runlim] samples:		350

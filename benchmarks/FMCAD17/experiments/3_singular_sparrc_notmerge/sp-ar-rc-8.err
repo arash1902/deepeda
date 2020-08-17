@@ -1,0 +1,21 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/aoki/sp-ar-rc-8.aig
+[runlim] argv[2]:		--singular
+[runlim] argv[3]:		--do-not-merge-gates
+[runlim] start:			Wed Jul 12 15:07:48 2017
+[runlim] main pid:		6934
+[time] 0.10 usertime in seconds
+[time] 0.46 wallclocktime in seconds
+[time] 19840 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 15:07:49 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		4
+[runlim] real:			1.03 seconds
+[runlim] time:			0.06 seconds
+[runlim] space:			12.2 MB
+[runlim] samples:		4

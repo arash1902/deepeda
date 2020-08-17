@@ -1,0 +1,20 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-mathematica.sh
+[runlim] argv[1]:		../../benchmarks/aoki/sp-ar-rc-16.aig
+[runlim] argv[2]:		--do-not-merge-gates
+[runlim] start:			Wed Jul 12 14:30:14 2017
+[runlim] main pid:		5980
+[time] 6.71 usertime in seconds
+[time] 6.77 wallclocktime in seconds
+[time] 95872 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 14:30:21 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		67
+[runlim] real:			7.67 seconds
+[runlim] time:			6.63 seconds
+[runlim] space:			94.1 MB
+[runlim] samples:		68

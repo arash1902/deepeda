@@ -1,0 +1,76 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/btor/btor64.aig
+[runlim] argv[2]:		--singular
+[runlim] argv[3]:		--no-xor-rewriting
+[runlim] start:			Thu Jul 13 08:11:10 2017
+[runlim] main pid:		2281
+[runlim] sample:		9.5 time, 10.1 real, 2509.7 MB
+[runlim] sample:		19.5 time, 20.1 real, 5637.0 MB
+[runlim] sample:		29.5 time, 30.1 real, 6092.4 MB
+[runlim] sample:		39.5 time, 40.1 real, 6430.4 MB
+[runlim] sample:		49.5 time, 50.1 real, 6757.9 MB
+[runlim] sample:		59.5 time, 60.1 real, 7009.1 MB
+[runlim] sample:		69.5 time, 70.1 real, 7261.8 MB
+[runlim] sample:		79.5 time, 80.1 real, 7463.9 MB
+[runlim] sample:		89.5 time, 90.1 real, 7731.4 MB
+[runlim] sample:		99.5 time, 100.1 real, 7889.2 MB
+[runlim] sample:		109.5 time, 110.1 real, 8088.0 MB
+[runlim] sample:		119.5 time, 120.1 real, 8277.4 MB
+[runlim] sample:		129.5 time, 130.1 real, 8461.9 MB
+[runlim] sample:		139.5 time, 140.1 real, 8628.6 MB
+[runlim] sample:		149.5 time, 150.1 real, 8812.9 MB
+[runlim] sample:		159.5 time, 160.1 real, 8985.2 MB
+[runlim] sample:		169.5 time, 170.1 real, 9177.1 MB
+[runlim] sample:		179.5 time, 180.1 real, 9379.2 MB
+[runlim] sample:		189.5 time, 190.1 real, 9455.2 MB
+[runlim] sample:		199.5 time, 200.1 real, 9620.3 MB
+[runlim] sample:		209.5 time, 210.1 real, 9807.7 MB
+[runlim] sample:		219.5 time, 220.1 real, 9949.4 MB
+[runlim] sample:		229.5 time, 230.1 real, 10068.3 MB
+[runlim] sample:		239.5 time, 240.1 real, 10207.4 MB
+[runlim] sample:		249.5 time, 250.1 real, 10381.6 MB
+[runlim] sample:		259.5 time, 260.1 real, 10491.9 MB
+[runlim] sample:		269.5 time, 270.1 real, 10738.9 MB
+[runlim] sample:		279.5 time, 280.1 real, 10777.5 MB
+[runlim] sample:		289.5 time, 290.1 real, 10929.5 MB
+[runlim] sample:		299.5 time, 300.1 real, 11016.0 MB
+[runlim] sample:		309.5 time, 310.1 real, 11200.0 MB
+[runlim] sample:		319.5 time, 320.1 real, 11274.8 MB
+[runlim] sample:		329.5 time, 330.1 real, 11403.5 MB
+[runlim] sample:		339.5 time, 340.1 real, 11515.4 MB
+[runlim] sample:		349.5 time, 350.1 real, 11663.3 MB
+[runlim] sample:		359.5 time, 360.1 real, 11778.2 MB
+[runlim] sample:		369.5 time, 370.1 real, 11967.3 MB
+[runlim] sample:		379.5 time, 380.1 real, 12025.4 MB
+[runlim] sample:		389.5 time, 390.1 real, 12182.0 MB
+[runlim] sample:		399.5 time, 400.1 real, 12248.3 MB
+[runlim] sample:		409.5 time, 410.1 real, 12506.3 MB
+[runlim] sample:		419.5 time, 420.1 real, 12504.2 MB
+[runlim] sample:		429.5 time, 430.1 real, 12584.5 MB
+[runlim] sample:		439.5 time, 440.1 real, 12772.5 MB
+[runlim] sample:		449.5 time, 450.1 real, 12808.6 MB
+[runlim] sample:		459.5 time, 460.1 real, 12940.6 MB
+[runlim] sample:		469.5 time, 470.1 real, 13076.8 MB
+[runlim] sample:		479.5 time, 480.1 real, 13131.9 MB
+[runlim] sample:		489.5 time, 490.1 real, 13328.0 MB
+[runlim] sample:		499.5 time, 500.1 real, 13375.8 MB
+[runlim] sample:		509.5 time, 510.1 real, 13490.4 MB
+[runlim] sample:		519.5 time, 520.1 real, 13635.1 MB
+[runlim] sample:		529.5 time, 530.1 real, 13670.4 MB
+[runlim] sample:		539.5 time, 540.1 real, 13915.2 MB
+[runlim] sample:		549.5 time, 550.1 real, 13952.8 MB
+[runlim] end:			Thu Jul 13 08:20:28 2017
+[runlim] status:		out of memory
+[runlim] result:		3
+[runlim] children:		5582
+[runlim] real:			558.34 seconds
+[runlim] time:			557.68 seconds
+[runlim] space:			14000.1 MB
+[runlim] samples:		5582
+   ? error occurred in or before _ line 1: `evel196Order398Distance165) * (1 - AndOcc1Slice58Level196Order399Distance0), HT`
+   ? expected ideal-expression. type 'help ideal;'
+   ? last reserved name was `reduce`

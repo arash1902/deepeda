@@ -1,0 +1,20 @@
+[runlim] version:		1.10
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	1200 seconds
+[runlim] space limit:		14000 MB
+[runlim] argv[0]:		./run-aigmultopoly-then-singular.sh
+[runlim] argv[1]:		../../benchmarks/abc/abc16.aig
+[runlim] argv[2]:		--singular
+[runlim] start:			Wed Jul 12 12:39:52 2017
+[runlim] main pid:		3455
+[time] 0.48 usertime in seconds
+[time] 0.53 wallclocktime in seconds
+[time] 153696 maximum resident set size (in KB)
+[runlim] end:			Wed Jul 12 12:39:53 2017
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		5
+[runlim] real:			1.24 seconds
+[runlim] time:			0.45 seconds
+[runlim] space:			119.5 MB
+[runlim] samples:		5
